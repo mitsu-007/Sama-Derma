@@ -1,0 +1,66 @@
+Grouping,Skin_tone_group,Diagnosis,Support,Correct,Recall
+Fitzpatrick,FST 3,Infectious Disorders,105,72,0.6857142857142857
+Fitzpatrick,FST 3,Inflammatory Disorders,66,39,0.5909090909090909
+Fitzpatrick,FST 3,Keratanisation Disorders,2,1,0.5
+Fitzpatrick,FST 3,Neoplasms and tumors,4,0,0.0
+Fitzpatrick,FST 3,No Definite Diagnosis,3,0,0.0
+Fitzpatrick,FST 3,Other skin disorders,3,0,0.0
+Fitzpatrick,FST 3,Pigmentary Disorders,48,28,0.5833333333333334
+Fitzpatrick,FST 3,Skin Appendages Disorders,42,37,0.8809523809523809
+Fitzpatrick,FST 4,Infectious Disorders,201,160,0.7960199004975125
+Fitzpatrick,FST 4,Inflammatory Disorders,132,86,0.6515151515151515
+Fitzpatrick,FST 4,Keratanisation Disorders,5,0,0.0
+Fitzpatrick,FST 4,Neoplasms and tumors,4,1,0.25
+Fitzpatrick,FST 4,No Definite Diagnosis,2,0,0.0
+Fitzpatrick,FST 4,Other skin disorders,17,2,0.11764705882352941
+Fitzpatrick,FST 4,Pigmentary Disorders,71,53,0.7464788732394366
+Fitzpatrick,FST 4,Skin Appendages Disorders,51,42,0.8235294117647058
+Fitzpatrick,FST 5,Infectious Disorders,101,82,0.8118811881188119
+Fitzpatrick,FST 5,Inflammatory Disorders,101,78,0.7722772277227723
+Fitzpatrick,FST 5,Keratanisation Disorders,5,0,0.0
+Fitzpatrick,FST 5,Neoplasms and tumors,4,1,0.25
+Fitzpatrick,FST 5,No Definite Diagnosis,1,0,0.0
+Fitzpatrick,FST 5,Other skin disorders,7,2,0.2857142857142857
+Fitzpatrick,FST 5,Pigmentary Disorders,44,38,0.8636363636363636
+Fitzpatrick,FST 5,Skin Appendages Disorders,7,3,0.42857142857142855
+Fitzpatrick,FST 6,Infectious Disorders,12,9,0.75
+Fitzpatrick,FST 6,Inflammatory Disorders,8,7,0.875
+Fitzpatrick,FST 6,Keratanisation Disorders,2,1,0.5
+Fitzpatrick,FST 6,Other skin disorders,1,0,0.0
+Fitzpatrick,FST 6,Pigmentary Disorders,1,1,1.0
+Fitzpatrick,FST 6,Skin Appendages Disorders,1,0,0.0
+Monk,MST 4,Infectious Disorders,5,3,0.6
+Monk,MST 4,Inflammatory Disorders,8,2,0.25
+Monk,MST 4,No Definite Diagnosis,2,0,0.0
+Monk,MST 4,Pigmentary Disorders,8,2,0.25
+Monk,MST 4,Skin Appendages Disorders,7,5,0.7142857142857143
+Monk,MST 5,Infectious Disorders,102,71,0.696078431372549
+Monk,MST 5,Inflammatory Disorders,73,45,0.6164383561643836
+Monk,MST 5,Keratanisation Disorders,2,1,0.5
+Monk,MST 5,Neoplasms and tumors,2,0,0.0
+Monk,MST 5,No Definite Diagnosis,2,0,0.0
+Monk,MST 5,Other skin disorders,2,0,0.0
+Monk,MST 5,Pigmentary Disorders,38,23,0.6052631578947368
+Monk,MST 5,Skin Appendages Disorders,27,23,0.8518518518518519
+Monk,MST 6,Infectious Disorders,156,126,0.8076923076923077
+Monk,MST 6,Inflammatory Disorders,98,64,0.6530612244897959
+Monk,MST 6,Keratanisation Disorders,2,0,0.0
+Monk,MST 6,Neoplasms and tumors,4,0,0.0
+Monk,MST 6,Other skin disorders,13,1,0.07692307692307693
+Monk,MST 6,Pigmentary Disorders,63,49,0.7777777777777778
+Monk,MST 6,Skin Appendages Disorders,38,32,0.8421052631578947
+Monk,MST 7,Infectious Disorders,125,103,0.824
+Monk,MST 7,Inflammatory Disorders,94,70,0.7446808510638298
+Monk,MST 7,Keratanisation Disorders,8,0,0.0
+Monk,MST 7,Neoplasms and tumors,6,2,0.3333333333333333
+Monk,MST 7,No Definite Diagnosis,2,0,0.0
+Monk,MST 7,Other skin disorders,11,2,0.18181818181818182
+Monk,MST 7,Pigmentary Disorders,41,34,0.8292682926829268
+Monk,MST 7,Skin Appendages Disorders,27,21,0.7777777777777778
+Monk,MST 8,Infectious Disorders,31,20,0.6451612903225806
+Monk,MST 8,Inflammatory Disorders,34,29,0.8529411764705882
+Monk,MST 8,Keratanisation Disorders,1,0,0.0
+Monk,MST 8,Other skin disorders,2,1,0.5
+Monk,MST 8,Pigmentary Disorders,14,12,0.8571428571428571
+Monk,MST 8,Skin Appendages Disorders,2,1,0.5
+Monk,MST 9,Keratanisation Disorders,1,1,1.0

@@ -1,0 +1,27 @@
+# SamaDerma Backend Runtime Dependencies
+# Python Target: Python 3.11 (tested on 3.11.0)
+#
+# Installation Instructions:
+# 1. Install PyTorch with appropriate CUDA or CPU backend first from https://pytorch.org/get-started/locally/
+#    Example (CPU only, recommended for cost-effective deployment):
+#      pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#    Example (CUDA 12.x for GPU deployment):
+#      pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+#
+# 2. Install backend API runtime dependencies:
+#      pip install -r requirements-backend.txt
+
+# FastAPI & ASGI Server
+fastapi>=0.115.0,<0.163.0
+uvicorn[standard]>=0.30.0,<0.55.0
+pydantic>=2.8.0,<3.0.0
+python-multipart>=0.0.9
+
+# Computer Vision & Machine Learning Inference Runtime
+timm>=1.0.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Automated Testing & Test Client Support (optional/dev)
+httpx>=0.27.0
+pytest>=8.0.0

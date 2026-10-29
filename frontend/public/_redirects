@@ -1,0 +1,4 @@
+# SPA deep-link catch-all rewrite for React Router
+# Compatible with Cloudflare Pages, Netlify, and static edge hosts.
+# Direct requests to /analyze, /results, /fairness, /about rewrite to /index.html
+/*    /index.html   200

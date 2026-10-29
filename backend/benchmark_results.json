@@ -1,0 +1,26 @@
+{
+  "cuda": {
+    "device": "cuda",
+    "runs": 10,
+    "mean_ms": 97.78454997576773,
+    "median_ms": 96.07319993665442,
+    "std_ms": 3.760174866785124,
+    "min_ms": 95.61449999455363,
+    "max_ms": 108.17989998031408,
+    "p95_ms": 104.843059979612,
+    "vram_allocated_mb": 368.888671875,
+    "vram_reserved_mb": 568.0,
+    "device_name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+  },
+  "cpu": {
+    "device": "cpu",
+    "runs": 10,
+    "mean_ms": 2063.9924499904737,
+    "median_ms": 2104.570900031831,
+    "std_ms": 112.31657147812784,
+    "min_ms": 1763.816999970004,
+    "max_ms": 2168.0395000148565,
+    "p95_ms": 2162.0135049684905,
+    "device_name": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD"
+  }
+}

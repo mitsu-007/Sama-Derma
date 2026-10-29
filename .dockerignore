@@ -1,0 +1,21 @@
+# Default-deny build context: only production inference inputs are re-included.
+**
+
+!backend/
+backend/**
+!backend/Dockerfile
+!backend/requirements-container.txt
+!backend/app.py
+!backend/concurrency.py
+!backend/rate_limiter.py
+!backend/schemas.py
+
+!demo_inference.py
+
+!checkpoints/
+checkpoints/**
+!checkpoints/Swin_MC_best_model.pth
+
+!experiments/
+experiments/**
+!experiments/experiment_config.json

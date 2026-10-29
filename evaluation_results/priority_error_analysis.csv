@@ -1,0 +1,8 @@
+Scale,Skin_tone_group,True_class,Incorrect_prediction,Error_count,Total_errors,Percentage_of_errors
+Fitzpatrick,FST 3,Pigmentary Disorders,Inflammatory Disorders,12,20,60.0
+Fitzpatrick,FST 3,Pigmentary Disorders,Infectious Disorders,4,20,20.0
+Fitzpatrick,FST 3,Pigmentary Disorders,Skin Appendages Disorders,3,20,15.0
+Fitzpatrick,FST 3,Pigmentary Disorders,Other skin disorders,1,20,5.0
+Fitzpatrick,FST 5,Pigmentary Disorders,Inflammatory Disorders,3,6,50.0
+Fitzpatrick,FST 5,Pigmentary Disorders,Infectious Disorders,2,6,33.33333333333333
+Fitzpatrick,FST 5,Pigmentary Disorders,Keratanisation Disorders,1,6,16.666666666666664

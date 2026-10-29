@@ -1,0 +1,28 @@
+{
+  "benchmark": "disposable one-process Swin Base training smoke test",
+  "seed": 20261026,
+  "training_metadata_only": true,
+  "test_metadata_read": false,
+  "pretrained": false,
+  "weights_saved": false,
+  "architecture": "swin_base_patch4_window12_384",
+  "image_size": 512,
+  "batch_size": 2,
+  "precision": "fp16 autocast with GradScaler; fp32 model parameters",
+  "warmup_steps": 2,
+  "measured_steps": 5,
+  "median_step_seconds": 0.3706316000316292,
+  "mean_step_seconds": 0.37534974003210664,
+  "measured_loss_range": [
+    1.6067931652069092,
+    5.177128791809082
+  ],
+  "peak_allocated_gib": 3.5370397567749023,
+  "peak_reserved_gib": 3.84375,
+  "device": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.30",
+  "torchvision": "0.26.0+cu128",
+  "data_loader_workers": 0,
+  "notes": "Timing includes image decode/transforms and training step, excludes model construction; short sample is not a full-epoch guarantee."
+}

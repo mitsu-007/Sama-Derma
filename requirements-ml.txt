@@ -1,0 +1,6 @@
+# Install only after the app scaffold runs and the Python environment is confirmed.
+# Install a PyTorch build compatible with your Python version and hardware from https://pytorch.org/get-started/locally/
+torch
+torchvision
+scikit-learn
+matplotlib

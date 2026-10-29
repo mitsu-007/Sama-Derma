@@ -1,0 +1,155 @@
+{
+  "experiment_id": "dermafair_swin_fitzpatrick_reweight_v3_seven_epoch",
+  "status": "prepared_not_trained",
+  "seed": 20261026,
+  "data": {
+    "training_metadata": "data/metadata/train_split-1.csv",
+    "training_metadata_sha256": "371cc4eed022d48c0a621449a6c721c481f452afc8179720cdf93b990759c4d5",
+    "split_manifest": "experiments/train_val_split_manifest.csv",
+    "split_summary": "experiments/train_val_split_summary.json",
+    "splitter": "sklearn.model_selection.StratifiedGroupKFold",
+    "splitter_version": "1.9.1",
+    "n_splits": 5,
+    "validation_fold": 0,
+    "validation_fraction_target": 0.2,
+    "group_column": "Subject_ID",
+    "stratification_label": "Main_class",
+    "test_split_policy": "Do not read, train on, tune on, or evaluate on the official test split during preparation or model selection. A future one-time comparison is exploratory because upstream checkpoint selection used that split."
+  },
+  "model": {
+    "architecture": "swin_base_patch4_window12_384",
+    "image_size": 512,
+    "num_classes": 8,
+    "label_order": [
+      "Infectious Disorders",
+      "Inflammatory Disorders",
+      "Keratanisation Disorders",
+      "Neoplasms and tumors",
+      "No Definite Diagnosis",
+      "Other skin disorders",
+      "Pigmentary Disorders",
+      "Skin Appendages Disorders"
+    ],
+    "initialization": {
+      "source": "ImageNet-22k pretraining fine-tuned on ImageNet-1k",
+      "timm_pretrained_tag": "ms_in22k_ft_in1k",
+      "timm_pretrained_url": "https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22kto1k.pth",
+      "release_asset_listed_size_mb": 348,
+      "local_cache_checked": true,
+      "matching_weights_cached": false,
+      "downloaded": true,
+      "verified_local_path": "experiments/pretrained/swin_base_patch4_window12_384_22kto1k.pth",
+      "verified_file_size_bytes": 365361851,
+      "verified_file_size_mib": 348.44,
+      "verified_sha256": "0f6f7d28cb1ddf43af5583163310b29cb3805a32044f226025352494702c606e",
+      "official_checksum_published": false,
+      "download_source_verified": true,
+      "require_sha256_record_before_training": true,
+      "replace_classifier_with_8_class_head": true,
+      "reset_seed_before_each_arm_and_verify_equal_initial_head": true
+    }
+  },
+  "common_training": {
+    "seed_policy": "Reset Python, NumPy, torch CPU/CUDA, sampler generator, and augmentation RNG to 20261026 for each arm; use identical initial classifier-head tensors. Set cuDNN deterministic=true and benchmark=false. Record that bitwise determinism is not guaranteed across library/GPU changes.",
+    "epochs_max": 7,
+    "batch_size": 1,
+    "gradient_accumulation_steps": 8,
+    "effective_batch_size": 8,
+    "precision": "fp16 autocast with GradScaler; fp32 parameters",
+    "optimizer": "AdamW",
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "loss": "CrossEntropyLoss(label_smoothing=0.1)",
+    "scheduler": "CosineAnnealingLR stepped once per epoch; T_max=12; eta_min=1e-6",
+    "train_transforms": [
+      "Resize(512,512)",
+      "RandomHorizontalFlip()",
+      "RandomRotation(15 degrees)",
+      "ToTensor()",
+      "Normalize(mean=[0.53749797,0.45875554,0.40382471], std=[0.21629889,0.20366619,0.20136241])"
+    ],
+    "validation_transforms": [
+      "Resize(512,512)",
+      "ToTensor()",
+      "same normalization"
+    ],
+    "sampler_draws_per_epoch": "number of rows in the training partition, sampled with replacement",
+    "data_loader_workers": 2,
+    "checkpoint_directory": "experiments/revision_03/runs_revision_03/<arm_id>/",
+    "existing_checkpoint_may_be_loaded_or_overwritten": false,
+    "accumulation_semantics": "Divide each microbatch mean loss by the number of microbatches in its actual accumulation group; step optimizer and GradScaler after each full group and after the final partial group; scheduler advances once after each completed epoch.",
+    "pin_memory": true,
+    "persistent_workers": true
+  },
+  "arms": {
+    "A_standard_class_balanced": {
+      "sample_weight_per_image": "1 / n_y, where n_y is the number of training-partition images in diagnosis y"
+    },
+    "B_capped_fitzpatrick_reweight": {
+      "tone_column": "Fitzpatrick",
+      "eligibility_minimum_unique_subjects_per_diagnosis_tone_cell": 20,
+      "eligible_cell_factor": "q_(y,g) = min(3, max(1, sqrt(n_y / n_(y,g))))",
+      "ineligible_or_missing_tone_factor": 1,
+      "raw_sample_weight": "(1 / n_y) * q_(y,g)",
+      "normalization": "Divide each diagnosis's raw weights by their sum within that diagnosis so each diagnosis has total sampler mass 1, matching Arm A.",
+      "counts_scope": "Compute n_y, n_(y,g), and unique-subject eligibility from the training partition only; never use validation or test counts."
+    }
+  },
+  "validation": {
+    "primary_checkpoint_metric": "8-class macro F1",
+    "tie_breaker": "lower validation cross-entropy loss when macro F1 differs by less than 0.002",
+    "minimum_macro_f1_improvement": 0.002,
+    "early_stopping_patience_epochs": 4,
+    "maximum_epochs": 12,
+    "metrics": [
+      "cross-entropy loss",
+      "accuracy",
+      "macro F1 across all 8 classes",
+      "per-class precision, recall, F1, and support",
+      "Fitzpatrick-group accuracy and macro F1 with support",
+      "diagnosis-by-Fitzpatrick recall and support",
+      "Pigmentary Disorders FST 3 and FST 5 recall and their difference"
+    ],
+    "no_validation_based_threshold_tuning": true
+  },
+  "test": {
+    "run_during_preparation": false,
+    "run_during_training_or_selection": false,
+    "future_use": "At most one exploratory comparison after both arms are frozen; no confirmatory claim due prior upstream use for checkpoint selection and hypothesis discovery."
+  },
+  "preparation_benchmark": {
+    "result_file": "experiments/smoke_benchmark.json",
+    "batch_size": 2,
+    "measured_median_seconds_per_batch": 0.3706316000316292,
+    "measured_mean_seconds_per_batch": 0.37534974003210664,
+    "peak_allocated_gib": 3.5370397567749023,
+    "peak_reserved_gib": 3.84375,
+    "max_epoch_training_step_hours_both_arms": 4.35,
+    "planning_budget_hours_with_25_percent_overhead": 5.5,
+    "pretrained_asset_listed_size_mb": 348,
+    "c_drive_free_gib_at_check": 122.498,
+    "asset_download_attempted": true,
+    "asset_reachability_from_machine": "Verified: completed HTTPS download from the exact official SwinTransformer release URL in timm's pretrained configuration.",
+    "asset_sha256": "0f6f7d28cb1ddf43af5583163310b29cb3805a32044f226025352494702c606e"
+  },
+  "protocol_revision": 3,
+  "previous_protocol": "experiments/revision_02/experiment_config.json",
+  "runtime_budget_hours": 5.5,
+  "runtime_gate": {
+    "checkpoint_save_seconds_per_epoch_upper_bound": 0.8008988001383841,
+    "planning_margin_fraction": 0.2,
+    "startup_reserve_seconds": 300,
+    "finalization_reserve_seconds": 300,
+    "minimum_free_vram_gib": 4.5,
+    "maximum_reserved_vram_gib": 5.2,
+    "runtime_guard_policy": "Before starting the run require both arms plus startup reserve to fit the budget. Before each epoch reserve a measured-margin estimate for all remaining current-arm epochs and, during Arm A, for all of Arm B. Before Arm B require its complete remaining maximum-length estimate. Stop before an epoch if that reserve cannot be maintained.",
+    "training_images_per_second_from_revision_03": 4.204613301696588,
+    "validation_seconds_per_image_including_decode_from_revision_03": 0.07373689999750985,
+    "checkpoint_save_seconds_measured": 0.40044940006919205,
+    "training_benchmark_measured_images": 80,
+    "validation_benchmark_measured_images": 880,
+    "validation_total_elapsed_seconds": 64.89348199998494,
+    "runtime_gate_passed": true,
+    "runtime_gate_margin_seconds": 4335.862757734119
+  }
+}

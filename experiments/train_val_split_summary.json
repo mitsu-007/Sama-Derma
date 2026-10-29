@@ -1,0 +1,232 @@
+{
+  "source_csv": "data\\metadata\\train_split-1.csv",
+  "source_csv_sha256": "371cc4eed022d48c0a621449a6c721c481f452afc8179720cdf93b990759c4d5",
+  "splitter": "sklearn.model_selection.StratifiedGroupKFold",
+  "scikit_learn_version": "1.9.1",
+  "seed": 20261026,
+  "n_splits": 5,
+  "validation_fold": 0,
+  "source_rows": 4399,
+  "training_rows": 3519,
+  "validation_rows": 880,
+  "source_subjects": 2396,
+  "training_subjects": 1917,
+  "validation_subjects": 479,
+  "subject_overlap": 0,
+  "image_overlap": 0,
+  "training_class_counts": {
+    "Infectious Disorders": 1446,
+    "Inflammatory Disorders": 1028,
+    "Keratanisation Disorders": 46,
+    "Neoplasms and tumors": 32,
+    "No Definite Diagnosis": 25,
+    "Other skin disorders": 105,
+    "Pigmentary Disorders": 534,
+    "Skin Appendages Disorders": 303
+  },
+  "validation_class_counts": {
+    "Infectious Disorders": 362,
+    "Inflammatory Disorders": 257,
+    "Keratanisation Disorders": 12,
+    "Neoplasms and tumors": 8,
+    "No Definite Diagnosis": 6,
+    "Other skin disorders": 26,
+    "Pigmentary Disorders": 133,
+    "Skin Appendages Disorders": 76
+  },
+  "training_fitzpatrick_diagnosis_support": [
+    {
+      "Main_class": "Infectious Disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 335,
+      "subjects": 250
+    },
+    {
+      "Main_class": "Infectious Disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 689,
+      "subjects": 501
+    },
+    {
+      "Main_class": "Infectious Disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 381,
+      "subjects": 296
+    },
+    {
+      "Main_class": "Infectious Disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 41,
+      "subjects": 32
+    },
+    {
+      "Main_class": "Inflammatory Disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 280,
+      "subjects": 177
+    },
+    {
+      "Main_class": "Inflammatory Disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 485,
+      "subjects": 299
+    },
+    {
+      "Main_class": "Inflammatory Disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 235,
+      "subjects": 172
+    },
+    {
+      "Main_class": "Inflammatory Disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 28,
+      "subjects": 20
+    },
+    {
+      "Main_class": "Keratanisation Disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 4,
+      "subjects": 2
+    },
+    {
+      "Main_class": "Keratanisation Disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 25,
+      "subjects": 14
+    },
+    {
+      "Main_class": "Keratanisation Disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 13,
+      "subjects": 8
+    },
+    {
+      "Main_class": "Keratanisation Disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 4,
+      "subjects": 3
+    },
+    {
+      "Main_class": "Neoplasms and tumors",
+      "Fitzpatrick": "FST 3",
+      "images": 13,
+      "subjects": 7
+    },
+    {
+      "Main_class": "Neoplasms and tumors",
+      "Fitzpatrick": "FST 4",
+      "images": 14,
+      "subjects": 10
+    },
+    {
+      "Main_class": "Neoplasms and tumors",
+      "Fitzpatrick": "FST 5",
+      "images": 4,
+      "subjects": 3
+    },
+    {
+      "Main_class": "Neoplasms and tumors",
+      "Fitzpatrick": null,
+      "images": 1,
+      "subjects": 1
+    },
+    {
+      "Main_class": "No Definite Diagnosis",
+      "Fitzpatrick": "FST 3",
+      "images": 10,
+      "subjects": 10
+    },
+    {
+      "Main_class": "No Definite Diagnosis",
+      "Fitzpatrick": "FST 4",
+      "images": 11,
+      "subjects": 11
+    },
+    {
+      "Main_class": "No Definite Diagnosis",
+      "Fitzpatrick": "FST 5",
+      "images": 4,
+      "subjects": 4
+    },
+    {
+      "Main_class": "Other skin disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 36,
+      "subjects": 28
+    },
+    {
+      "Main_class": "Other skin disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 56,
+      "subjects": 40
+    },
+    {
+      "Main_class": "Other skin disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 8,
+      "subjects": 8
+    },
+    {
+      "Main_class": "Other skin disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 3,
+      "subjects": 3
+    },
+    {
+      "Main_class": "Other skin disorders",
+      "Fitzpatrick": null,
+      "images": 2,
+      "subjects": 2
+    },
+    {
+      "Main_class": "Pigmentary Disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 116,
+      "subjects": 85
+    },
+    {
+      "Main_class": "Pigmentary Disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 270,
+      "subjects": 167
+    },
+    {
+      "Main_class": "Pigmentary Disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 133,
+      "subjects": 96
+    },
+    {
+      "Main_class": "Pigmentary Disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 15,
+      "subjects": 12
+    },
+    {
+      "Main_class": "Skin Appendages Disorders",
+      "Fitzpatrick": "FST 3",
+      "images": 123,
+      "subjects": 69
+    },
+    {
+      "Main_class": "Skin Appendages Disorders",
+      "Fitzpatrick": "FST 4",
+      "images": 154,
+      "subjects": 94
+    },
+    {
+      "Main_class": "Skin Appendages Disorders",
+      "Fitzpatrick": "FST 5",
+      "images": 25,
+      "subjects": 21
+    },
+    {
+      "Main_class": "Skin Appendages Disorders",
+      "Fitzpatrick": "FST 6",
+      "images": 1,
+      "subjects": 1
+    }
+  ],
+  "test_metadata_read": false
+}

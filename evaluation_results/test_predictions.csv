@@ -1,0 +1,1052 @@
+Image_name,True_class,Predicted_class,Predicted_score,Correct,Fitzpatrick,Monk_skin_tone
+IMG_0017.jpg,Infectious Disorders,Inflammatory Disorders,0.7351217269897461,0,FST 4,MST 7
+IMG_0019.jpg,Infectious Disorders,Infectious Disorders,0.4355408251285553,1,FST 4,MST 6
+IMG_0044.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7570509910583496,1,FST 4,MST 6
+IMG_0084.jpg,Other skin disorders,Pigmentary Disorders,0.4238355755805969,0,FST 4,MST 6
+IMG_0087.jpg,Infectious Disorders,Infectious Disorders,0.6373488903045654,1,FST 4,MST 7
+IMG_0089.jpg,Infectious Disorders,Infectious Disorders,0.893415629863739,1,FST 4,MST 6
+IMG_0090.jpg,Pigmentary Disorders,Pigmentary Disorders,0.4593627154827118,1,FST 4,MST 7
+IMG_0123.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5130067467689514,1,FST 4,MST 6
+IMG_0125.jpg,Infectious Disorders,Inflammatory Disorders,0.935323178768158,0,FST 4,MST 7
+IMG_0126.jpg,Infectious Disorders,Inflammatory Disorders,0.6700733304023743,0,FST 4,MST 7
+IMG_0127.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9362819790840149,1,FST 4,MST 6
+IMG_0142.jpg,Infectious Disorders,Infectious Disorders,0.8802111148834229,1,FST 4,MST 6
+IMG_0161.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8350787162780762,1,FST 5,MST 7
+IMG_0162.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7879897356033325,1,FST 4,MST 6
+IMG_0163.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8657206296920776,1,FST 4,MST 7
+IMG_0166.jpg,Neoplasms and tumors,Infectious Disorders,0.8558564782142639,0,FST 3,MST 5
+IMG_0172.jpg,Infectious Disorders,Infectious Disorders,0.8164722323417664,1,FST 3,MST 5
+IMG_0173.jpg,Infectious Disorders,Inflammatory Disorders,0.7682965993881226,0,FST 3,MST 5
+IMG_0174.jpg,Infectious Disorders,Infectious Disorders,0.7527989149093628,1,FST 3,MST 5
+IMG_0175.jpg,Infectious Disorders,Infectious Disorders,0.9142438769340515,1,FST 3,MST 5
+IMG_0180.jpg,Other skin disorders,Infectious Disorders,0.8931755423545837,0,FST 4,MST 6
+IMG_0182.jpg,Inflammatory Disorders,Infectious Disorders,0.8634552955627441,0,FST 4,MST 6
+IMG_0183.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9286696314811707,1,FST 4,MST 6
+IMG_0185.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8573756814002991,1,FST 4,MST 6
+IMG_0186.jpg,Pigmentary Disorders,Pigmentary Disorders,0.6471347808837891,1,FST 4,MST 6
+IMG_0195.jpg,Infectious Disorders,Infectious Disorders,0.6120553016662598,1,FST 3,MST 5
+IMG_0199.jpg,Infectious Disorders,Infectious Disorders,0.7395504117012024,1,FST 3,MST 5
+IMG_0200.jpg,Infectious Disorders,Infectious Disorders,0.6865330934524536,1,FST 3,MST 5
+IMG_0229.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5092554092407227,1,FST 5,MST 7
+IMG_0242.jpg,Infectious Disorders,Infectious Disorders,0.8887889385223389,1,FST 4,MST 6
+IMG_0243_2.jpg,Infectious Disorders,Infectious Disorders,0.890166163444519,1,FST 4,MST 6
+IMG_0267.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6378271579742432,1,FST 5,MST 7
+IMG_0297.jpg,Infectious Disorders,Infectious Disorders,0.9454092979431152,1,FST 3,MST 5
+IMG_0299.jpg,Infectious Disorders,Infectious Disorders,0.9505894780158997,1,FST 4,MST 6
+IMG_0350.jpg,Infectious Disorders,Infectious Disorders,0.897079586982727,1,FST 4,MST 5
+IMG_0394.jpg,Infectious Disorders,Infectious Disorders,0.8208915591239929,1,FST 4,MST 6
+IMG_0408.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9121463894844055,1,FST 3,MST 5
+IMG_0409.jpg,Inflammatory Disorders,Infectious Disorders,0.7834141850471497,0,FST 4,MST 6
+IMG_0410.jpg,Inflammatory Disorders,Infectious Disorders,0.8018164038658142,0,FST 3,MST 5
+IMG_0411.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6914573311805725,1,FST 3,MST 5
+IMG_0412.jpg,Inflammatory Disorders,Infectious Disorders,0.8146411180496216,0,FST 3,MST 5
+IMG_0448.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9034234881401062,1,FST 4,MST 6
+IMG_0450.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9140103459358215,1,FST 4,MST 6
+IMG_0451.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9310811161994934,1,FST 3,MST 5
+IMG_0483.jpg,Pigmentary Disorders,Pigmentary Disorders,0.6229720115661621,1,FST 4,MST 6
+IMG_0484.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9315539598464966,1,FST 4,MST 6
+IMG_0485.jpg,Pigmentary Disorders,Pigmentary Disorders,0.47806432843208313,1,FST 4,MST 6
+IMG_0540.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.7480031251907349,0,FST 4,MST 6
+IMG_0544.jpg,Inflammatory Disorders,Inflammatory Disorders,0.730014979839325,1,FST 5,MST 7
+IMG_0545.jpg,Infectious Disorders,Infectious Disorders,0.9118809700012207,1,FST 4,MST 7
+IMG_0548.jpg,Infectious Disorders,Infectious Disorders,0.8993958830833435,1,FST 4,MST 7
+IMG_0557.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5361485481262207,1,FST 4,MST 6
+IMG_0607.jpg,Inflammatory Disorders,Infectious Disorders,0.6626935005187988,0,FST 4,MST 6
+IMG_0609.jpg,Inflammatory Disorders,Infectious Disorders,0.4563392996788025,0,FST 4,MST 6
+IMG_0610.jpg,No Definite Diagnosis,Inflammatory Disorders,0.7300916314125061,0,FST 3,MST 5
+IMG_0626.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5400292873382568,1,FST 4,MST 7
+IMG_0631.jpg,Infectious Disorders,Infectious Disorders,0.9140564799308777,1,FST 3,MST 6
+IMG_0633.jpg,Infectious Disorders,Infectious Disorders,0.8911451101303101,1,FST 4,MST 6
+IMG_0781.jpg,Inflammatory Disorders,Infectious Disorders,0.8312093615531921,0,FST 4,MST 7
+IMG_0832.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8593990802764893,1,FST 4,MST 6
+IMG_0834.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6430251002311707,1,FST 4,MST 6
+IMG_0885.jpg,Infectious Disorders,Inflammatory Disorders,0.4768802523612976,0,FST 3,MST 6
+IMG_0890.jpg,Infectious Disorders,Inflammatory Disorders,0.8959915637969971,0,FST 4,MST 6
+IMG_0904.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9305794835090637,1,FST 4,MST 7
+IMG_0917.jpg,Infectious Disorders,Infectious Disorders,0.9264875054359436,1,FST 3,MST 6
+IMG_0918.jpg,Infectious Disorders,Infectious Disorders,0.9081418514251709,1,FST 3,MST 6
+IMG_0921.jpg,Pigmentary Disorders,Inflammatory Disorders,0.9190468192100525,0,FST 4,MST 6
+IMG_0966.jpg,Infectious Disorders,Infectious Disorders,0.9285315871238708,1,FST 5,MST 7
+IMG_0973.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5108585357666016,1,FST 5,MST 7
+IMG_0987.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5757513046264648,1,FST 4,MST 6
+IMG_0989.jpg,Inflammatory Disorders,Infectious Disorders,0.8326994776725769,0,FST 4,MST 7
+IMG_1007.jpg,Infectious Disorders,Infectious Disorders,0.9264506101608276,1,FST 5,MST 7
+IMG_1041.jpg,Infectious Disorders,Infectious Disorders,0.9420249462127686,1,FST 4,MST 7
+IMG_1044.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9338896870613098,1,FST 4,MST 6
+IMG_1046.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9302706122398376,1,FST 5,MST 7
+IMG_1079.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6827867031097412,1,FST 5,MST 8
+IMG_1081.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.9159957766532898,0,FST 5,MST 7
+IMG_1169.jpg,Infectious Disorders,Infectious Disorders,0.280778169631958,1,FST 3,MST 6
+IMG_1171.jpg,Infectious Disorders,Pigmentary Disorders,0.7728846073150635,0,FST 4,MST 7
+IMG_1196.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8994953036308289,1,FST 4,MST 7
+IMG_1198.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9133163690567017,1,FST 4,MST 7
+IMG_1286.jpg,Keratanisation Disorders,Keratanisation Disorders,0.6361544728279114,1,FST 6,MST 9
+IMG_1295.jpg,Pigmentary Disorders,Neoplasms and tumors,0.6982845664024353,0,FST 4,MST 7
+IMG_1296.jpg,Pigmentary Disorders,Neoplasms and tumors,0.900553286075592,0,FST 4,MST 7
+IMG_1325.jpg,Infectious Disorders,Infectious Disorders,0.7559657096862793,1,FST 3,MST 6
+IMG_1326_1.jpg,Infectious Disorders,Infectious Disorders,0.9139569997787476,1,FST 4,MST 6
+IMG_1338_1.jpg,Infectious Disorders,Infectious Disorders,0.4992477297782898,1,FST 4,MST 7
+IMG_1340_1.jpg,Infectious Disorders,Infectious Disorders,0.9094666838645935,1,FST 4,MST 7
+IMG_1343.jpg,Infectious Disorders,Infectious Disorders,0.8878335356712341,1,FST 4,MST 7
+IMG_1373.jpg,Inflammatory Disorders,Infectious Disorders,0.5703721642494202,0,FST 5,MST 8
+IMG_1375.jpg,Infectious Disorders,Infectious Disorders,0.8878796696662903,1,FST 5,MST 8
+IMG_1406.jpg,Infectious Disorders,Inflammatory Disorders,0.6459299921989441,0,FST 3,MST 5
+IMG_1410.jpg,Infectious Disorders,Inflammatory Disorders,0.581293523311615,0,FST 3,MST 5
+IMG_1411.jpg,Infectious Disorders,Infectious Disorders,0.4864529073238373,1,FST 4,MST 6
+IMG_1412.jpg,Infectious Disorders,Skin Appendages Disorders,0.3620133399963379,0,FST 4,MST 6
+IMG_1413.jpg,Infectious Disorders,Inflammatory Disorders,0.5181145668029785,0,FST 4,MST 6
+IMG_1424_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9335625767707825,1,FST 4,MST 7
+IMG_1426_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8565876483917236,1,FST 4,MST 7
+IMG_1428.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8939028978347778,1,FST 4,MST 7
+IMG_1430.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9138565063476562,1,FST 4,MST 7
+IMG_1439.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5567266345024109,1,FST 5,MST 7
+IMG_1440.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8302853107452393,1,FST 5,MST 7
+IMG_1455.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6060212850570679,1,FST 5,MST 8
+IMG_1456.jpg,Infectious Disorders,Infectious Disorders,0.8450232744216919,1,FST 4,MST 6
+IMG_1457.jpg,Infectious Disorders,Inflammatory Disorders,0.8163618445396423,0,FST 5,MST 8
+IMG_1543.jpg,Infectious Disorders,Infectious Disorders,0.9240573048591614,1,FST 4,MST 6
+IMG_1567.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8859354853630066,1,FST 4,MST 5
+IMG_1568.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9267807006835938,1,FST 4,MST 5
+IMG_1587.jpg,Infectious Disorders,Infectious Disorders,0.8378459811210632,1,FST 4,MST 6
+IMG_1602_1.jpg,Other skin disorders,Infectious Disorders,0.44104960560798645,0,FST 4,MST 7
+IMG_1611.jpg,Inflammatory Disorders,Inflammatory Disorders,0.895685613155365,1,FST 4,MST 7
+IMG_1614.jpg,Inflammatory Disorders,Infectious Disorders,0.5489635467529297,0,FST 4,MST 7
+IMG_1615.jpg,Inflammatory Disorders,Infectious Disorders,0.42024365067481995,0,FST 4,MST 6
+IMG_1620.jpg,Infectious Disorders,Infectious Disorders,0.9234577417373657,1,FST 4,MST 6
+IMG_1621.jpg,Infectious Disorders,Infectious Disorders,0.6948366165161133,1,FST 4,MST 6
+IMG_1622.jpg,Infectious Disorders,Infectious Disorders,0.7595710754394531,1,FST 4,MST 6
+IMG_1625.jpg,Infectious Disorders,Inflammatory Disorders,0.8895049691200256,0,FST 5,MST 7
+IMG_1652.jpg,Infectious Disorders,Infectious Disorders,0.8602977991104126,1,FST 4,MST 7
+IMG_1664.jpg,Infectious Disorders,Infectious Disorders,0.4941081702709198,1,FST 3,MST 5
+IMG_1666.jpg,Infectious Disorders,Infectious Disorders,0.9173949360847473,1,FST 3,MST 6
+IMG_1668.jpg,Inflammatory Disorders,Infectious Disorders,0.4974667727947235,0,FST 5,MST 7
+IMG_1680.jpg,Infectious Disorders,Infectious Disorders,0.9012104868888855,1,FST 4,MST 7
+IMG_1683.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6830761432647705,1,FST 4,MST 7
+IMG_1729.jpg,Inflammatory Disorders,Inflammatory Disorders,0.442789763212204,1,FST 4,MST 6
+IMG_1730.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9129506945610046,1,FST 4,MST 6
+IMG_1731.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8421028852462769,1,FST 4,MST 6
+IMG_1732.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8851606249809265,1,FST 4,MST 6
+IMG_1734.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7894594073295593,1,FST 4,MST 6
+IMG_1744.jpg,Infectious Disorders,Infectious Disorders,0.8577498197555542,1,FST 4,MST 7
+IMG_1745.jpg,Infectious Disorders,Infectious Disorders,0.9114652872085571,1,FST 5,MST 7
+IMG_1757.jpg,Pigmentary Disorders,Keratanisation Disorders,0.30900177359580994,0,FST 5,MST 8
+IMG_1759.jpg,Pigmentary Disorders,Infectious Disorders,0.4892522692680359,0,FST 5,MST 7
+IMG_1760.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5537149906158447,1,FST 5,MST 7
+IMG_1768.jpg,Inflammatory Disorders,Inflammatory Disorders,0.431881308555603,1,FST 4,MST 6
+IMG_1769.jpg,Inflammatory Disorders,Inflammatory Disorders,0.89145427942276,1,FST 3,MST 5
+IMG_1770.jpg,Inflammatory Disorders,Infectious Disorders,0.6262192726135254,0,FST 3,MST 5
+IMG_1772.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.5655901432037354,0,FST 3,MST 5
+IMG_1786.jpg,Pigmentary Disorders,Pigmentary Disorders,0.892612874507904,1,FST 4,MST 6
+IMG_1787.jpg,Pigmentary Disorders,Pigmentary Disorders,0.924458920955658,1,FST 4,MST 7
+IMG_1789.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9188438653945923,1,FST 4,MST 7
+IMG_1961.jpg,Infectious Disorders,Inflammatory Disorders,0.9299659132957458,0,FST 5,MST 7
+IMG_1962_1.jpg,Infectious Disorders,Inflammatory Disorders,0.46554020047187805,0,FST 4,MST 7
+IMG_1962_2.jpg,Infectious Disorders,Inflammatory Disorders,0.48727065324783325,0,FST 4,MST 7
+IMG_1964.jpg,Infectious Disorders,Infectious Disorders,0.8605049252510071,1,FST 4,MST 7
+IMG_1971.jpg,Infectious Disorders,Infectious Disorders,0.902734100818634,1,FST 5,MST 8
+IMG_1972.jpg,Infectious Disorders,Inflammatory Disorders,0.899681031703949,0,FST 5,MST 8
+IMG_2019_1.jpg,Neoplasms and tumors,Inflammatory Disorders,0.6720654368400574,0,FST 5,MST 7
+IMG_20191113_192549_1.jpg,Other skin disorders,Other skin disorders,0.8734865188598633,1,FST 4,MST 6
+IMG_2020.jpg,Neoplasms and tumors,Inflammatory Disorders,0.5613700151443481,0,FST 5,MST 7
+IMG_20200102_174934_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8177590370178223,1,FST 4,MST 7
+IMG_20200102_174944_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9045389294624329,1,FST 4,MST 7
+IMG_20200102_174951_1.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.6515777707099915,0,FST 4,MST 7
+IMG_20200214_174438_1.jpg,Infectious Disorders,Inflammatory Disorders,0.43343400955200195,0,FST 6,MST 8
+IMG_20200222_171730_1.jpg,Infectious Disorders,Inflammatory Disorders,0.44992852210998535,0,FST 6,MST 8
+IMG_20221212_194232_1_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.7327383160591125,0,FST 3,MST 5
+IMG_20221213_125848_2.jpg,Infectious Disorders,Infectious Disorders,0.9253566861152649,1,FST 4,MST 6
+IMG_20221216_182544_2.jpg,Infectious Disorders,Infectious Disorders,0.8401791453361511,1,FST 3,MST 5
+IMG_20221219_114841_1.jpg,Infectious Disorders,Infectious Disorders,0.898154616355896,1,FST 3,MST 5
+IMG_20221228_140329_4.jpg,Infectious Disorders,Infectious Disorders,0.629754364490509,1,FST 3,MST 5
+IMG_20221228_205416_1.jpg,Infectious Disorders,Infectious Disorders,0.9175958633422852,1,FST 4,MST 7
+IMG_20221229_132346_1.jpg,Infectious Disorders,Infectious Disorders,0.8945550918579102,1,FST 5,MST 7
+IMG_2023.jpg,Neoplasms and tumors,Skin Appendages Disorders,0.4258435070514679,0,FST 5,MST 7
+IMG_20230102_123607_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7477304339408875,1,FST 5,MST 7
+IMG_20230102_125139.jpg,Infectious Disorders,Infectious Disorders,0.4907630681991577,1,FST 3,MST 5
+IMG_20230102_125146.jpg,Infectious Disorders,Infectious Disorders,0.8445910215377808,1,FST 3,MST 5
+IMG_20230102_185739_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5690635442733765,1,FST 6,MST 8
+IMG_20230102_185817_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5677362680435181,0,FST 5,MST 7
+IMG_20230102_185825_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8898640871047974,1,FST 5,MST 7
+IMG_20230104_114739_1.jpg,Infectious Disorders,Infectious Disorders,0.9142986536026001,1,FST 4,MST 7
+IMG_20230104_114746_1_1.jpg,Infectious Disorders,Infectious Disorders,0.7181546688079834,1,FST 4,MST 6
+IMG_20230110_122012_1_1.jpg,Inflammatory Disorders,Pigmentary Disorders,0.8410409688949585,0,FST 5,MST 7
+IMG_20230110_122040_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7561493515968323,1,FST 5,MST 8
+IMG_20230110_190339_1.jpg,Infectious Disorders,Infectious Disorders,0.6224364042282104,1,FST 3,MST 5
+IMG_20230110_190347_1.jpg,Infectious Disorders,Infectious Disorders,0.5853298306465149,1,FST 3,MST 5
+IMG_20230110_190355_1.jpg,Infectious Disorders,Infectious Disorders,0.7321774363517761,1,FST 4,MST 6
+IMG_20230110_190409.jpg,Infectious Disorders,Infectious Disorders,0.6874679923057556,1,FST 4,MST 6
+IMG_20230111_135446_1_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8800268769264221,1,FST 5,MST 7
+IMG_20230117_115738_2_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9093623757362366,1,FST 4,MST 6
+IMG_20230117_115752_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9022425413131714,1,FST 4,MST 6
+IMG_20230123_121948_1.jpg,Infectious Disorders,Inflammatory Disorders,0.826378583908081,0,FST 4,MST 6
+IMG_20230123_121959_1.jpg,Infectious Disorders,Inflammatory Disorders,0.7295374274253845,0,FST 4,MST 6
+IMG_20230124_194337_1.jpg,Infectious Disorders,Infectious Disorders,0.9008201956748962,1,FST 5,MST 7
+IMG_20230124_194351_1.jpg,Infectious Disorders,Infectious Disorders,0.924848198890686,1,FST 5,MST 7
+IMG_20230124_204118_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.752312421798706,1,FST 3,MST 5
+IMG_20230124_204123_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6713306903839111,1,FST 3,MST 5
+IMG_20230207_121128_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.925875186920166,1,FST 4,MST 6
+IMG_20230207_121429_1.jpg,Infectious Disorders,Infectious Disorders,0.9155861735343933,1,FST 5,MST 7
+IMG_20230207_121429_3.jpg,Infectious Disorders,Infectious Disorders,0.6405094861984253,1,FST 5,MST 7
+IMG_20230207_121443_1.jpg,Infectious Disorders,Infectious Disorders,0.9117377996444702,1,FST 4,MST 6
+IMG_20230210_115233_1.jpg,Infectious Disorders,Infectious Disorders,0.9242909550666809,1,FST 3,MST 5
+IMG_20230218_192519_1.jpg,Infectious Disorders,Infectious Disorders,0.6805278658866882,1,FST 5,MST 7
+IMG_20230218_192531_1.jpg,Infectious Disorders,Infectious Disorders,0.6050867438316345,1,FST 4,MST 7
+IMG_20230220_144630_1.jpg,Infectious Disorders,Infectious Disorders,0.9083389043807983,1,FST 3,MST 5
+IMG_20230222_114832_1.jpg,Infectious Disorders,Infectious Disorders,0.9366658329963684,1,FST 4,MST 7
+IMG_20230223_140310_1_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5489659309387207,1,FST 5,MST 7
+IMG_20230224_133242_1_1.jpg,Infectious Disorders,Infectious Disorders,0.444617360830307,1,FST 3,MST 5
+IMG_20230227_184928.jpg,Inflammatory Disorders,Inflammatory Disorders,0.3598101735115051,1,FST 3,MST 5
+IMG_20230227_184938_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6173012852668762,1,FST 5,MST 7
+IMG_20230227_184947_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.45309391617774963,1,FST 4,MST 6
+IMG_20230306_115504_2.jpg,Pigmentary Disorders,Infectious Disorders,0.9488243460655212,0,FST 3,MST 5
+IMG_20230306_183621_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.561961829662323,1,FST 3,MST 5
+IMG_20230314_184109_1.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.6616595983505249,0,FST 3,MST 5
+IMG_20230314_184120_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6974753737449646,1,FST 3,MST 5
+IMG_20230316_125254_1_1_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8994922637939453,1,FST 4,MST 7
+IMG_20230316_125323_1_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8473347425460815,1,FST 4,MST 7
+IMG_20230403_131034_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.908015251159668,1,FST 4,MST 7
+IMG_20230403_192829_1_1.jpg,Inflammatory Disorders,Infectious Disorders,0.40170300006866455,0,FST 3,MST 5
+IMG_20230406_144152_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8263771533966064,1,FST 3,MST 5
+IMG_20230406_144156.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8813379406929016,1,FST 4,MST 6
+IMG_20230427_120045.jpg,Infectious Disorders,Infectious Disorders,0.8817501664161682,1,FST 5,MST 7
+IMG_20230502_131048_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8880237340927124,1,FST 4,MST 6
+IMG_20230502_131117_1.jpg,Inflammatory Disorders,Infectious Disorders,0.9341097474098206,0,FST 4,MST 7
+IMG_20230502_131218_1.jpg,Inflammatory Disorders,Neoplasms and tumors,0.4175879955291748,0,FST 4,MST 6
+IMG_20230518_202634_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9052504301071167,1,FST 4,MST 6
+IMG_20230518_202640_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6631451845169067,1,FST 4,MST 6
+IMG_20230518_203901_1.jpg,Infectious Disorders,Infectious Disorders,0.7140686511993408,1,FST 5,MST 7
+IMG_20230522_204627_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8803210854530334,1,FST 3,MST 5
+IMG_20230523_202213_1.jpg,Infectious Disorders,Infectious Disorders,0.9144265651702881,1,FST 4,MST 7
+IMG_20230525_192317_1.jpg,Pigmentary Disorders,Other skin disorders,0.28934887051582336,0,FST 4,MST 6
+IMG_20230526_123148_1.jpg,Infectious Disorders,Inflammatory Disorders,0.5922382473945618,0,FST 5,MST 7
+IMG_20230526_131001_1.jpg,Infectious Disorders,Infectious Disorders,0.9231777787208557,1,FST 3,MST 5
+IMG_20230530_123312_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.48553571105003357,1,FST 4,MST 6
+IMG_20230530_123352_1_1.jpg,Infectious Disorders,Infectious Disorders,0.9127144813537598,1,FST 3,MST 5
+IMG_20230607_122930_1.jpg,Skin Appendages Disorders,Infectious Disorders,0.40919917821884155,0,FST 5,MST 7
+IMG_20230607_122954_1_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.3724328577518463,0,FST 5,MST 7
+IMG_20230607_123003.jpg,Pigmentary Disorders,Inflammatory Disorders,0.7754638195037842,0,FST 5,MST 7
+IMG_20230612_134420_1.jpg,Infectious Disorders,Infectious Disorders,0.8601233959197998,1,FST 3,MST 5
+IMG_20230612_140452_1_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.634878933429718,1,FST 4,MST 6
+IMG_20230612_140537_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6593400835990906,1,FST 4,MST 7
+IMG_20230612_140544_1_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6473827362060547,1,FST 4,MST 5
+IMG_20230612_191918_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9252792000770569,1,FST 4,MST 7
+IMG_20230612_215904_1.jpg,Infectious Disorders,Infectious Disorders,0.9208896160125732,1,FST 4,MST 5
+IMG_20230613_191214_1_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.22293256223201752,0,FST 3,MST 4
+IMG_20230613_191656_1.jpg,Pigmentary Disorders,Infectious Disorders,0.8897368311882019,0,FST 3,MST 4
+IMG_20230616_142053_1.jpg,Infectious Disorders,Infectious Disorders,0.9014695882797241,1,FST 4,MST 7
+IMG_20230620_201121_2.jpg,Infectious Disorders,Infectious Disorders,0.9016426205635071,1,FST 5,MST 6
+IMG_20230621_133732_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6394599080085754,1,FST 3,MST 6
+IMG_20230621_191141_1.jpg,Infectious Disorders,Infectious Disorders,0.7377992868423462,1,FST 5,MST 8
+IMG_20230626_142252_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9034370183944702,1,FST 4,MST 5
+IMG_20230703_150633_1.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.5569498538970947,0,FST 4,MST 5
+IMG_20230705_143518.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.7636279463768005,0,FST 4,MST 5
+IMG_20230705_143536_1_1.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.6322183609008789,0,FST 3,MST 5
+IMG_20230707_131940_2.jpg,Infectious Disorders,Infectious Disorders,0.5725868344306946,1,FST 4,MST 6
+IMG_20230707_131948_1_2.jpg,Infectious Disorders,Inflammatory Disorders,0.8990204334259033,0,FST 4,MST 7
+IMG_20230707_210352_1.jpg,Infectious Disorders,Infectious Disorders,0.44640448689460754,1,FST 4,MST 5
+IMG_20230708_112949_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.911064088344574,1,FST 3,MST 5
+IMG_20230713_122047_1.jpg,Infectious Disorders,Infectious Disorders,0.9126710891723633,1,FST 3,MST 5
+IMG_20230713_135805_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.923478901386261,1,FST 3,MST 6
+IMG_20230713_135814_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8006476759910583,1,FST 3,MST 6
+IMG_20230713_135835_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.5948954820632935,1,FST 3,MST 5
+IMG_20230717_123711_1.jpg,Infectious Disorders,Infectious Disorders,0.9003251791000366,1,FST 5,MST 7
+IMG_20230717_195322_1_1.jpg,Infectious Disorders,Infectious Disorders,0.40597301721572876,1,FST 3,MST 5
+IMG_20230719_122632.jpg,Infectious Disorders,Infectious Disorders,0.8770642280578613,1,FST 3,MST 5
+IMG_20230719_132654_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.92254239320755,1,FST 3,MST 4
+IMG_20230731_140943_1_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.47752144932746887,0,FST 3,MST 4
+IMG_20230802_202233_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8960165977478027,1,FST 3,MST 6
+IMG_20230803_192907_1.jpg,Infectious Disorders,Infectious Disorders,0.4568665027618408,1,FST 4,MST 6
+IMG_20230803_192916_1.jpg,Infectious Disorders,Pigmentary Disorders,0.9140918254852295,0,FST 3,MST 6
+IMG_20230803_204622_1.jpg,Infectious Disorders,Inflammatory Disorders,0.45146673917770386,0,FST 3,MST 6
+IMG_20230812_131905_1.jpg,Infectious Disorders,Infectious Disorders,0.9129965901374817,1,FST 4,MST 6
+IMG_20230816_195011_1.jpg,Infectious Disorders,Infectious Disorders,0.9240862131118774,1,FST 3,MST 6
+IMG_20230817_115834_1.jpg,Inflammatory Disorders,Infectious Disorders,0.7595729827880859,0,FST 3,MST 5
+IMG_20230822_121134_1.jpg,Infectious Disorders,Infectious Disorders,0.9383810758590698,1,FST 4,MST 6
+IMG_20230828_114106_1.jpg,Infectious Disorders,Infectious Disorders,0.5954369902610779,1,FST 3,MST 5
+IMG_20230828_114126_1.jpg,Infectious Disorders,Infectious Disorders,0.8440366983413696,1,FST 3,MST 6
+IMG_20230829_134453_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5082252621650696,0,FST 3,MST 5
+IMG_20230829_193644_1.jpg,Infectious Disorders,Infectious Disorders,0.9213680028915405,1,FST 4,MST 7
+IMG_20230831_124024_1.jpg,Infectious Disorders,Infectious Disorders,0.9187825918197632,1,FST 4,MST 7
+IMG_20230831_124035_1.jpg,Infectious Disorders,Infectious Disorders,0.9489830732345581,1,FST 4,MST 7
+IMG_20230831_130015_1_1.jpg,Keratanisation Disorders,Infectious Disorders,0.8385058045387268,0,FST 3,MST 5
+IMG_20230901_134448_1.jpg,Infectious Disorders,Infectious Disorders,0.7414302825927734,1,FST 4,MST 6
+IMG_20230901_134458_1_1.jpg,Infectious Disorders,Infectious Disorders,0.8374416828155518,1,FST 5,MST 7
+IMG_20230901_134507_1_2.jpg,Infectious Disorders,Inflammatory Disorders,0.7968655228614807,0,FST 4,MST 7
+IMG_20230902_213302.jpg,Pigmentary Disorders,Pigmentary Disorders,0.2834720015525818,1,FST 4,MST 6
+IMG_20230904_200540_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8121013045310974,1,FST 4,MST 7
+IMG_20230912_113047_2_1.jpg,Infectious Disorders,Infectious Disorders,0.3787059485912323,1,FST 4,MST 6
+IMG_20230912_113102_1.jpg,Infectious Disorders,Inflammatory Disorders,0.570606529712677,0,FST 3,MST 5
+IMG_20230919_204030_1.jpg,Infectious Disorders,Infectious Disorders,0.9176149368286133,1,FST 6,MST 8
+IMG_20230919_210623_1.jpg,Infectious Disorders,Infectious Disorders,0.7865661382675171,1,FST 4,MST 6
+IMG_20230919_210634_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8763086199760437,0,FST 4,MST 6
+IMG_20230921_135349_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9173153042793274,1,FST 4,MST 6
+IMG_20231010_145727.jpg,Infectious Disorders,Infectious Disorders,0.9230800271034241,1,FST 5,MST 7
+IMG_20231030_210521_1_1.jpg,Infectious Disorders,Infectious Disorders,0.9556687474250793,1,FST 5,MST 7
+IMG_20231031_134019_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9260107278823853,1,FST 3,MST 5
+IMG_20231031_141644.jpg,Infectious Disorders,Infectious Disorders,0.88982754945755,1,FST 4,MST 6
+IMG_20231102_115500_1.jpg,Infectious Disorders,Inflammatory Disorders,0.5600226521492004,0,FST 4,MST 6
+IMG_20231104_191109_1_1.jpg,Infectious Disorders,Infectious Disorders,0.9149174094200134,1,FST 3,MST 5
+IMG_20231107_201659_1.jpg,Infectious Disorders,Infectious Disorders,0.9123276472091675,1,FST 5,MST 7
+IMG_20231113_190654_1.jpg,Infectious Disorders,Inflammatory Disorders,0.7238357663154602,0,FST 5,MST 7
+IMG_20231117_140137_1.jpg,Neoplasms and tumors,Neoplasms and tumors,0.6548712253570557,1,FST 5,MST 7
+IMG_20231127_145249_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9360974431037903,1,FST 6,MST 8
+IMG_20231128_120728_1_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8977997303009033,1,FST 4,MST 6
+IMG_20231128_120741_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9173892140388489,1,FST 5,MST 7
+IMG_20231128_120741.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9182365536689758,1,FST 5,MST 7
+IMG_20231128_120750_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9139041900634766,1,FST 5,MST 7
+IMG_20231129_125334.jpg,Infectious Disorders,Infectious Disorders,0.9164588451385498,1,FST 4,MST 6
+IMG_20231209_120205_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9291017651557922,1,FST 4,MST 6
+IMG_20231222_195256_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6102417707443237,1,FST 4,MST 6
+IMG_20231225_124601_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5748599171638489,1,FST 5,MST 7
+IMG_20231225_124601_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8873224258422852,1,FST 5,MST 7
+IMG_2024.jpg,Neoplasms and tumors,Pigmentary Disorders,0.6066139936447144,0,FST 4,MST 7
+IMG_20240105_200434_1.jpg,Inflammatory Disorders,Infectious Disorders,0.7226865291595459,0,FST 4,MST 6
+IMG_20240105_200442_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4625043570995331,1,FST 4,MST 6
+IMG_20240113_112351_3.jpg,Infectious Disorders,Infectious Disorders,0.6912926435470581,1,FST 4,MST 7
+IMG_20240126_193247_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8197441101074219,1,FST 5,MST 7
+IMG_20240208_194359.jpg,Infectious Disorders,Infectious Disorders,0.8976954221725464,1,FST 3,MST 6
+IMG_20240210_212238_1.jpg,Infectious Disorders,Infectious Disorders,0.4635798931121826,1,FST 3,MST 5
+IMG_20240214_120444_1.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.740813136100769,0,FST 3,MST 5
+IMG_20240214_120549_1.jpg,Skin Appendages Disorders,Infectious Disorders,0.6546488404273987,0,FST 4,MST 6
+IMG_20240214_120600_1.jpg,Skin Appendages Disorders,Infectious Disorders,0.3412051498889923,0,FST 4,MST 6
+IMG_20240415_142721_1.jpg,Infectious Disorders,Infectious Disorders,0.6645037531852722,1,FST 6,MST 8
+IMG_20240417_121507_1.jpg,Infectious Disorders,Infectious Disorders,0.9120673537254333,1,FST 5,MST 7
+IMG_20240517_122239_1.jpg,Infectious Disorders,Infectious Disorders,0.9055705666542053,1,FST 6,MST 8
+IMG_20240517_122248_1_1.jpg,Infectious Disorders,Infectious Disorders,0.8853175044059753,1,FST 6,MST 8
+IMG_20240517_122433_1.jpg,Infectious Disorders,Infectious Disorders,0.9191396236419678,1,FST 4,MST 7
+IMG_20240517_130105.jpg,Infectious Disorders,Infectious Disorders,0.9191844463348389,1,FST 4,MST 6
+IMG_20240518_130254_1.jpg,Infectious Disorders,Infectious Disorders,0.8338665962219238,1,FST 4,MST 6
+IMG_20240518_194608_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8660339117050171,1,FST 5,MST 7
+IMG_20240518_194620_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7638803124427795,1,FST 5,MST 7
+IMG_20240518_200808_1.jpg,Infectious Disorders,Infectious Disorders,0.8419567346572876,1,FST 5,MST 7
+IMG_20240518_200815_1_1.jpg,Infectious Disorders,Infectious Disorders,0.8122563362121582,1,FST 4,MST 6
+IMG_20240520_113550_1.jpg,Infectious Disorders,Infectious Disorders,0.8788745403289795,1,FST 4,MST 6
+IMG_20240520_123344_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8023967742919922,0,FST 3,MST 5
+IMG_20240531_194708.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8163964152336121,1,FST 4,MST 7
+IMG_20240614_120209_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5682244896888733,0,FST 4,MST 6
+IMG_20240614_120217_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6907312870025635,1,FST 4,MST 6
+IMG_20240614_142918_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.6349106431007385,1,FST 5,MST 7
+IMG_20240615_114758_1.jpg,Infectious Disorders,Infectious Disorders,0.9193989634513855,1,FST 3,MST 5
+IMG_20240615_114816_1.jpg,Infectious Disorders,Infectious Disorders,0.9150127172470093,1,FST 3,MST 5
+IMG_2058_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9110403656959534,1,FST 3,MST 5
+IMG_2059.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8092772364616394,1,FST 3,MST 5
+IMG_2060.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5231992602348328,1,FST 4,MST 6
+IMG_2061.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8858833312988281,1,FST 4,MST 5
+IMG_2094.jpg,Infectious Disorders,Inflammatory Disorders,0.6611725091934204,0,FST 4,MST 6
+IMG_2119.jpg,Infectious Disorders,Infectious Disorders,0.9109125137329102,1,FST 4,MST 6
+IMG_2121.jpg,Pigmentary Disorders,Infectious Disorders,0.4075678586959839,0,FST 4,MST 5
+IMG_2122.jpg,Infectious Disorders,Keratanisation Disorders,0.4328160285949707,0,FST 4,MST 6
+IMG_2123.jpg,Infectious Disorders,Infectious Disorders,0.7913956046104431,1,FST 5,MST 6
+IMG_2124.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6074409484863281,1,FST 5,MST 7
+IMG_2125.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7728000283241272,1,FST 5,MST 8
+IMG_2126.jpg,Infectious Disorders,Inflammatory Disorders,0.9025691151618958,0,FST 4,MST 5
+IMG_2128.jpg,Infectious Disorders,Inflammatory Disorders,0.9246175289154053,0,FST 4,MST 5
+IMG_2130.jpg,Infectious Disorders,Infectious Disorders,0.8697264194488525,1,FST 4,MST 7
+IMG_2131.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4793980121612549,1,FST 3,MST 5
+IMG_2133.jpg,Inflammatory Disorders,Infectious Disorders,0.5529795289039612,0,FST 3,MST 4
+IMG_2136.jpg,Inflammatory Disorders,Inflammatory Disorders,0.785312831401825,1,FST 3,MST 5
+IMG_2137.jpg,Infectious Disorders,Infectious Disorders,0.5111979842185974,1,FST 4,MST 6
+IMG_2166.jpg,Infectious Disorders,Infectious Disorders,0.8774876594543457,1,FST 3,MST 4
+IMG_2169.jpg,Infectious Disorders,Infectious Disorders,0.5735760927200317,1,FST 4,MST 7
+IMG_2171.jpg,Infectious Disorders,Infectious Disorders,0.8880971074104309,1,FST 4,MST 7
+IMG_2173.jpg,Infectious Disorders,Inflammatory Disorders,0.8937265872955322,0,FST 4,MST 6
+IMG_2192.jpg,No Definite Diagnosis,Inflammatory Disorders,0.541031002998352,0,FST 3,MST 4
+IMG_2240.jpg,No Definite Diagnosis,Pigmentary Disorders,0.76813805103302,0,FST 3,MST 4
+IMG_2241.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.833551824092865,1,FST 3,MST 5
+IMG_2243.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7452218532562256,1,FST 3,MST 5
+IMG_2275.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9245875477790833,1,FST 5,MST 7
+IMG_2276.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9260940551757812,1,FST 5,MST 6
+IMG_2277.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8613908886909485,1,FST 4,MST 6
+IMG_2279.jpg,Inflammatory Disorders,Infectious Disorders,0.5032072067260742,0,FST 4,MST 7
+IMG_2287.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7870867848396301,1,FST 4,MST 6
+IMG_2288.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7658502459526062,1,FST 4,MST 6
+IMG_2290.jpg,Infectious Disorders,Infectious Disorders,0.9142849445343018,1,FST 5,MST 7
+IMG_2293.jpg,Infectious Disorders,Infectious Disorders,0.9059379696846008,1,FST 4,MST 5
+IMG_2335.jpg,Other skin disorders,Keratanisation Disorders,0.8192732334136963,0,FST 4,MST 6
+IMG_2355.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5766469836235046,1,FST 4,MST 6
+IMG_2404.jpg,Inflammatory Disorders,Infectious Disorders,0.5736053586006165,0,FST 3,MST 4
+IMG_2406.jpg,Inflammatory Disorders,Infectious Disorders,0.42052313685417175,0,FST 3,MST 4
+IMG_2407.jpg,Inflammatory Disorders,Infectious Disorders,0.7326030135154724,0,FST 3,MST 4
+IMG_2409.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7124701738357544,1,FST 3,MST 4
+IMG_2417.jpg,Infectious Disorders,Infectious Disorders,0.9445608258247375,1,FST 4,MST 6
+IMG_2419.jpg,Infectious Disorders,Infectious Disorders,0.5697134137153625,1,FST 3,MST 5
+IMG_2420.jpg,Infectious Disorders,Inflammatory Disorders,0.4131220579147339,0,FST 3,MST 5
+IMG_2422.jpg,Infectious Disorders,Inflammatory Disorders,0.8784428834915161,0,FST 4,MST 6
+IMG_2427.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6607985496520996,1,FST 3,MST 5
+IMG_2431.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8596022129058838,1,FST 3,MST 5
+IMG_2439.jpg,Keratanisation Disorders,Inflammatory Disorders,0.5771927237510681,0,FST 5,MST 7
+IMG_2448_1.jpg,Infectious Disorders,Infectious Disorders,0.8970865607261658,1,FST 3,MST 5
+IMG_2456_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8977111577987671,1,FST 3,MST 5
+IMG_2458_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.766821563243866,1,FST 3,MST 5
+IMG_2463_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8746926784515381,1,FST 4,MST 5
+IMG_2466.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7343060374259949,1,FST 3,MST 5
+IMG_2467_1.jpg,Pigmentary Disorders,Skin Appendages Disorders,0.5513293147087097,0,FST 3,MST 4
+IMG_2469.jpg,Pigmentary Disorders,Inflammatory Disorders,0.3915249705314636,0,FST 3,MST 4
+IMG_2487_1.jpg,Infectious Disorders,Infectious Disorders,0.9112434387207031,1,FST 3,MST 4
+IMG_2487.jpg,Infectious Disorders,Inflammatory Disorders,0.45570799708366394,0,FST 3,MST 5
+IMG_2495_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.930281937122345,1,FST 5,MST 6
+IMG_2497.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8937554359436035,1,FST 4,MST 6
+IMG_2498.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8076466917991638,1,FST 5,MST 7
+IMG_2499.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9213866591453552,1,FST 5,MST 8
+IMG_2515.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8561563491821289,1,FST 5,MST 6
+IMG_2516.jpg,Inflammatory Disorders,Infectious Disorders,0.746454119682312,0,FST 5,MST 7
+IMG_2518.jpg,Inflammatory Disorders,Infectious Disorders,0.5178136229515076,0,FST 4,MST 5
+IMG_2525.jpg,Infectious Disorders,Inflammatory Disorders,0.9246326088905334,0,FST 4,MST 5
+IMG_2527.jpg,Infectious Disorders,Infectious Disorders,0.8566197156906128,1,FST 4,MST 5
+IMG_2529.jpg,Inflammatory Disorders,Inflammatory Disorders,0.39292487502098083,1,FST 4,MST 7
+IMG_2531.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5906863808631897,1,FST 4,MST 7
+IMG_2532.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8826515078544617,1,FST 4,MST 7
+IMG_2536_1.jpg,Infectious Disorders,Pigmentary Disorders,0.6943126916885376,0,FST 3,MST 5
+IMG_2537.jpg,Infectious Disorders,Pigmentary Disorders,0.8096314072608948,0,FST 3,MST 5
+IMG_2539.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8354175686836243,1,FST 4,MST 5
+IMG_2541_1.jpg,Infectious Disorders,Infectious Disorders,0.9058284163475037,1,FST 4,MST 7
+IMG_2542.jpg,Infectious Disorders,Infectious Disorders,0.9752148389816284,1,FST 4,MST 7
+IMG_2607_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5454716086387634,0,FST 3,MST 5
+IMG_2610.jpg,Inflammatory Disorders,Infectious Disorders,0.6485285758972168,0,FST 4,MST 5
+IMG_2611_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5969275832176208,0,FST 3,MST 4
+IMG_2613_1.jpg,Inflammatory Disorders,Infectious Disorders,0.9119766354560852,0,FST 5,MST 7
+IMG_2633_1.jpg,Other skin disorders,Inflammatory Disorders,0.6842389702796936,0,FST 5,MST 6
+IMG_2662.jpg,Neoplasms and tumors,Skin Appendages Disorders,0.5814007520675659,0,FST 3,MST 5
+IMG_2664.jpg,Neoplasms and tumors,Infectious Disorders,0.8087441325187683,0,FST 4,MST 6
+IMG_2681.jpg,Pigmentary Disorders,Pigmentary Disorders,0.7369964122772217,1,FST 4,MST 7
+IMG_2695_1.jpg,Infectious Disorders,Infectious Disorders,0.9284616112709045,1,FST 4,MST 7
+IMG_2697_1.jpg,Infectious Disorders,Infectious Disorders,0.8500064015388489,1,FST 4,MST 5
+IMG_2707_1.jpg,Other skin disorders,Infectious Disorders,0.5718100070953369,0,FST 4,MST 7
+IMG_2728.jpg,Infectious Disorders,Infectious Disorders,0.824749231338501,1,FST 3,MST 5
+IMG_2741.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4832476079463959,1,FST 4,MST 6
+IMG_2742_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8967610001564026,1,FST 5,MST 7
+IMG_2745_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8999142050743103,1,FST 4,MST 5
+IMG_2747_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6511631608009338,1,FST 5,MST 7
+IMG_2786.jpg,Infectious Disorders,Infectious Disorders,0.849196195602417,1,FST 4,MST 6
+IMG_2787.jpg,Infectious Disorders,Infectious Disorders,0.8666461706161499,1,FST 4,MST 6
+IMG_2789.jpg,Infectious Disorders,Infectious Disorders,0.9251681566238403,1,FST 4,MST 6
+IMG_2804.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9027647376060486,1,FST 3,MST 5
+IMG_2806.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9152060747146606,1,FST 3,MST 5
+IMG_2816.jpg,Infectious Disorders,Other skin disorders,0.26595866680145264,0,FST 3,MST 4
+IMG_2843.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8816225528717041,1,FST 3,MST 5
+IMG_2845.jpg,Pigmentary Disorders,Pigmentary Disorders,0.7553936243057251,1,FST 3,MST 5
+IMG_2911.jpg,Inflammatory Disorders,Infectious Disorders,0.8604868054389954,0,FST 3,MST 4
+IMG_2917.jpg,Inflammatory Disorders,Keratanisation Disorders,0.8575446605682373,0,FST 5,MST 6
+IMG_2921.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8978767991065979,1,FST 4,MST 6
+IMG_2923.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6585655808448792,1,FST 4,MST 5
+IMG_2931.jpg,Infectious Disorders,Infectious Disorders,0.9259504079818726,1,FST 4,MST 5
+IMG_2948.jpg,Pigmentary Disorders,Pigmentary Disorders,0.7623773217201233,1,FST 5,MST 6
+IMG_2950_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9088804125785828,1,FST 4,MST 6
+IMG_2950.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9092339873313904,1,FST 3,MST 5
+IMG_2964.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7493414282798767,1,FST 5,MST 7
+IMG_2965_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8947872519493103,1,FST 5,MST 6
+IMG_2970.jpg,Pigmentary Disorders,Infectious Disorders,0.9175055027008057,0,FST 4,MST 6
+IMG_3019.jpg,Infectious Disorders,Infectious Disorders,0.8865472674369812,1,FST 5,MST 6
+IMG_3021.jpg,Infectious Disorders,Infectious Disorders,0.890130341053009,1,FST 4,MST 5
+IMG_3043.jpg,Inflammatory Disorders,Inflammatory Disorders,0.37646353244781494,1,FST 5,MST 7
+IMG_3045.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7449169158935547,1,FST 5,MST 6
+IMG_3052.jpg,Infectious Disorders,Inflammatory Disorders,0.8098195195198059,0,FST 3,MST 5
+IMG_3056.jpg,Infectious Disorders,Inflammatory Disorders,0.6911412477493286,0,FST 3,MST 5
+IMG_3090.jpg,Infectious Disorders,Infectious Disorders,0.8650004267692566,1,FST 4,MST 6
+IMG_3093.jpg,Infectious Disorders,Infectious Disorders,0.6614670753479004,1,FST 4,MST 6
+IMG_3137.jpg,Infectious Disorders,Inflammatory Disorders,0.41935986280441284,0,FST 4,MST 5
+IMG_3144.jpg,Inflammatory Disorders,Inflammatory Disorders,0.942078709602356,1,FST 5,MST 8
+IMG_3152.jpg,Skin Appendages Disorders,Keratanisation Disorders,0.24376411736011505,0,FST 4,MST 6
+IMG_3155.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.5884107351303101,1,FST 4,MST 6
+IMG_3156.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8376840353012085,1,FST 4,MST 6
+IMG_3162.jpg,Pigmentary Disorders,Skin Appendages Disorders,0.3258841931819916,0,FST 3,MST 5
+IMG_3163.jpg,Pigmentary Disorders,Skin Appendages Disorders,0.7718048691749573,0,FST 3,MST 5
+IMG_3181.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6278784275054932,1,FST 3,MST 5
+IMG_3183.jpg,Skin Appendages Disorders,Infectious Disorders,0.8562830090522766,0,FST 3,MST 4
+IMG_3184.jpg,Skin Appendages Disorders,Infectious Disorders,0.734106183052063,0,FST 3,MST 4
+IMG_3188.jpg,Other skin disorders,Infectious Disorders,0.7457891702651978,0,FST 4,MST 7
+IMG_3213.jpg,Inflammatory Disorders,Infectious Disorders,0.9191023111343384,0,FST 5,MST 7
+IMG_3215.jpg,Inflammatory Disorders,Infectious Disorders,0.8792392611503601,0,FST 5,MST 8
+IMG_3217.jpg,Infectious Disorders,Infectious Disorders,0.9035587906837463,1,FST 4,MST 5
+IMG_3218.jpg,Infectious Disorders,Infectious Disorders,0.9205281138420105,1,FST 3,MST 5
+IMG_3232.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.46765872836112976,0,FST 4,MST 5
+IMG_3235.jpg,Infectious Disorders,Infectious Disorders,0.8205137848854065,1,FST 4,MST 6
+IMG_3265.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7781133651733398,1,FST 4,MST 7
+IMG_3281.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8133739829063416,1,FST 5,MST 8
+IMG_3283.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7720786333084106,1,FST 5,MST 7
+IMG_3285.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5701419115066528,1,FST 5,MST 8
+IMG_3286.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9064327478408813,1,FST 5,MST 8
+IMG_3343_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6025510430335999,1,FST 4,MST 6
+IMG_3344.jpg,Skin Appendages Disorders,Pigmentary Disorders,0.47272348403930664,0,FST 4,MST 6
+IMG_3345.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8987168669700623,1,FST 4,MST 6
+IMG_3351.jpg,Infectious Disorders,Inflammatory Disorders,0.5193026065826416,0,FST 3,MST 6
+IMG_3360.jpg,Infectious Disorders,Infectious Disorders,0.8107477426528931,1,FST 5,MST 8
+IMG_3365.jpg,Inflammatory Disorders,Infectious Disorders,0.8784685134887695,0,FST 4,MST 5
+IMG_3401.jpg,Pigmentary Disorders,Infectious Disorders,0.8880817294120789,0,FST 3,MST 5
+IMG_3402.jpg,Other skin disorders,Skin Appendages Disorders,0.5010811686515808,0,FST 3,MST 6
+IMG_3403.jpg,Other skin disorders,Inflammatory Disorders,0.870886504650116,0,FST 3,MST 6
+IMG_3447.jpg,Neoplasms and tumors,Neoplasms and tumors,0.6734347939491272,1,FST 4,MST 7
+IMG_3507.jpg,Other skin disorders,Inflammatory Disorders,0.4226526618003845,0,FST 4,MST 7
+IMG_3509.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6223135590553284,1,FST 5,MST 7
+IMG_3511.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5470896363258362,1,FST 4,MST 6
+IMG_3527.jpg,Infectious Disorders,Infectious Disorders,0.9230340123176575,1,FST 4,MST 6
+IMG_3528.jpg,Infectious Disorders,Infectious Disorders,0.7493311166763306,1,FST 4,MST 7
+IMG_3540.jpg,Inflammatory Disorders,Infectious Disorders,0.8311522006988525,0,FST 3,MST 5
+IMG_3542_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9045280814170837,1,FST 4,MST 7
+IMG_3542_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9399059414863586,1,FST 3,MST 5
+IMG_3543.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9123045802116394,1,FST 3,MST 6
+IMG_3544.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9183346033096313,1,FST 3,MST 6
+IMG_3557.jpg,Other skin disorders,Skin Appendages Disorders,0.8456565737724304,0,FST 5,MST 6
+IMG_3563.jpg,Inflammatory Disorders,Inflammatory Disorders,0.3580408990383148,1,FST 3,MST 5
+IMG_3566_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5587509870529175,1,FST 3,MST 5
+IMG_3584.jpg,Infectious Disorders,Keratanisation Disorders,0.5528112053871155,0,FST 4,MST 6
+IMG_3586.jpg,Infectious Disorders,Keratanisation Disorders,0.6543877124786377,0,FST 3,MST 5
+IMG_3588.jpg,Pigmentary Disorders,Inflammatory Disorders,0.39088836312294006,0,FST 3,MST 6
+IMG_3590.jpg,Pigmentary Disorders,Inflammatory Disorders,0.8199751377105713,0,FST 3,MST 5
+IMG_3591.jpg,Pigmentary Disorders,Inflammatory Disorders,0.91852867603302,0,FST 4,MST 6
+IMG_3592.jpg,Inflammatory Disorders,Inflammatory Disorders,0.778688371181488,1,FST 5,MST 8
+IMG_3595_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8444515466690063,1,FST 6,MST 8
+IMG_3673_2.jpg,Skin Appendages Disorders,Infectious Disorders,0.6302511692047119,0,FST 5,MST 7
+IMG_3674.jpg,Pigmentary Disorders,Infectious Disorders,0.3837011456489563,0,FST 5,MST 8
+IMG_3675_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8330156207084656,1,FST 5,MST 7
+IMG_3676_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7226490378379822,1,FST 5,MST 6
+IMG_3677_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5732126832008362,1,FST 5,MST 6
+IMG_3685.jpg,Pigmentary Disorders,Inflammatory Disorders,0.3126400113105774,0,FST 5,MST 6
+IMG_3686_1.jpg,Infectious Disorders,Infectious Disorders,0.8439275026321411,1,FST 5,MST 7
+IMG_3688_1.jpg,Infectious Disorders,Infectious Disorders,0.5593072175979614,1,FST 4,MST 7
+IMG_3718_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.899350106716156,1,FST 5,MST 8
+IMG_3724_1.jpg,Inflammatory Disorders,Pigmentary Disorders,0.8894370198249817,0,FST 5,MST 6
+IMG_3726.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8410612940788269,1,FST 5,MST 8
+IMG_3728_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6640094518661499,1,FST 5,MST 6
+IMG_3730_1.jpg,Infectious Disorders,Infectious Disorders,0.9318549633026123,1,FST 4,MST 6
+IMG_3732_1.jpg,Other skin disorders,Infectious Disorders,0.8965440988540649,0,FST 4,MST 5
+IMG_3893.jpg,Other skin disorders,Inflammatory Disorders,0.5080837607383728,0,FST 4,MST 6
+IMG_3894.jpg,Other skin disorders,Inflammatory Disorders,0.4253956377506256,0,FST 4,MST 6
+IMG_3930.jpg,Inflammatory Disorders,Infectious Disorders,0.7222738862037659,0,FST 3,MST 5
+IMG_3963.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9251963496208191,1,FST 5,MST 6
+IMG_3964.jpg,Pigmentary Disorders,Inflammatory Disorders,0.7900716662406921,0,FST 4,MST 6
+IMG_3966.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6738029718399048,1,FST 5,MST 7
+IMG_3997.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7829601764678955,1,FST 5,MST 6
+IMG_4003.jpg,Inflammatory Disorders,Infectious Disorders,0.46097391843795776,0,FST 4,MST 6
+IMG_4050.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9241011142730713,1,FST 4,MST 5
+IMG_4056.jpg,Other skin disorders,Other skin disorders,0.4809560775756836,1,FST 5,MST 8
+IMG_4065.jpg,Infectious Disorders,Inflammatory Disorders,0.7803689241409302,0,FST 3,MST 6
+IMG_4066.jpg,Infectious Disorders,Inflammatory Disorders,0.4609503149986267,0,FST 3,MST 6
+IMG_4068.jpg,Infectious Disorders,Infectious Disorders,0.8724337816238403,1,FST 5,MST 7
+IMG_4077.jpg,Inflammatory Disorders,Infectious Disorders,0.4689086079597473,0,FST 4,MST 5
+IMG_4079.jpg,Inflammatory Disorders,Infectious Disorders,0.582321047782898,0,FST 4,MST 6
+IMG_4083.jpg,Keratanisation Disorders,Inflammatory Disorders,0.8247304558753967,0,FST 4,MST 7
+IMG_4084.jpg,Keratanisation Disorders,Inflammatory Disorders,0.6000350117683411,0,FST 4,MST 6
+IMG_4086.jpg,Keratanisation Disorders,Inflammatory Disorders,0.9079345464706421,0,FST 5,MST 6
+IMG_4098.jpg,Inflammatory Disorders,Infectious Disorders,0.7348578572273254,0,FST 5,MST 6
+IMG_4099.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7720606923103333,1,FST 4,MST 5
+IMG_4101.jpg,Inflammatory Disorders,Infectious Disorders,0.9039994478225708,0,FST 4,MST 5
+IMG_4103.jpg,Inflammatory Disorders,Infectious Disorders,0.5015630722045898,0,FST 4,MST 6
+IMG_4172.jpg,Infectious Disorders,Infectious Disorders,0.8776282072067261,1,FST 5,MST 6
+IMG_4176.jpg,Infectious Disorders,Infectious Disorders,0.8652896881103516,1,FST 4,MST 6
+IMG_4177.jpg,Infectious Disorders,Infectious Disorders,0.9306490421295166,1,FST 4,MST 6
+IMG_4179.jpg,Pigmentary Disorders,Infectious Disorders,0.9155124425888062,0,FST 3,MST 6
+IMG_4180.jpg,Infectious Disorders,Infectious Disorders,0.7526963353157043,1,FST 3,MST 6
+IMG_4193.jpg,Infectious Disorders,Inflammatory Disorders,0.922056257724762,0,FST 6,MST 8
+IMG_4195.jpg,Inflammatory Disorders,Infectious Disorders,0.6508114337921143,0,FST 4,MST 5
+IMG_4212.jpg,Infectious Disorders,Inflammatory Disorders,0.8716166019439697,0,FST 3,MST 5
+IMG_4224.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8521822094917297,1,FST 4,MST 5
+IMG_4227.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8226895332336426,1,FST 4,MST 5
+IMG_4230.jpg,Inflammatory Disorders,Infectious Disorders,0.9545976519584656,0,FST 4,MST 5
+IMG_4232.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9095717072486877,1,FST 4,MST 5
+IMG_4233.jpg,Inflammatory Disorders,Infectious Disorders,0.9178568720817566,0,FST 4,MST 6
+IMG_4241.jpg,Infectious Disorders,Infectious Disorders,0.7175570726394653,1,FST 3,MST 4
+IMG_4253.jpg,Infectious Disorders,Pigmentary Disorders,0.7532036900520325,0,FST 3,MST 5
+IMG_4264.jpg,Infectious Disorders,Infectious Disorders,0.8612851500511169,1,FST 5,MST 6
+IMG_4266.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8802716732025146,1,FST 5,MST 8
+IMG_4279.jpg,Infectious Disorders,Infectious Disorders,0.9244396090507507,1,FST 4,MST 5
+IMG_4286.jpg,Infectious Disorders,Inflammatory Disorders,0.5811498165130615,0,FST 4,MST 5
+IMG_4324.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4314687252044678,1,FST 5,MST 8
+IMG_4325.jpg,Inflammatory Disorders,Inflammatory Disorders,0.822823166847229,1,FST 5,MST 8
+IMG_4327.jpg,Infectious Disorders,Infectious Disorders,0.9246029257774353,1,FST 4,MST 5
+IMG_4338.jpg,Inflammatory Disorders,Infectious Disorders,0.9189981818199158,0,FST 4,MST 6
+IMG_4383.jpg,Inflammatory Disorders,Infectious Disorders,0.7972546219825745,0,FST 4,MST 7
+IMG_4387.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8535674214363098,1,FST 5,MST 7
+IMG_4388.jpg,Inflammatory Disorders,Inflammatory Disorders,0.94921875,1,FST 5,MST 7
+IMG_4394.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8106135129928589,1,FST 3,MST 5
+IMG_4396.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7875816822052002,1,FST 3,MST 5
+IMG_4400.jpg,Inflammatory Disorders,Infectious Disorders,0.5307701826095581,0,FST 4,MST 6
+IMG_4454.jpg,Pigmentary Disorders,Infectious Disorders,0.8695939779281616,0,FST 4,MST 6
+IMG_4472.jpg,Infectious Disorders,Infectious Disorders,0.8817214369773865,1,FST 4,MST 5
+IMG_4521.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7020695805549622,1,FST 5,MST 6
+IMG_4554.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8849409222602844,1,FST 3,MST 6
+IMG_4556.jpg,Pigmentary Disorders,Pigmentary Disorders,0.924163281917572,1,FST 4,MST 6
+IMG_4557.jpg,Infectious Disorders,Infectious Disorders,0.9233021140098572,1,FST 3,MST 5
+IMG_4581.jpg,Inflammatory Disorders,Infectious Disorders,0.5412368178367615,0,FST 4,MST 6
+IMG_4584.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9338550567626953,1,FST 4,MST 6
+IMG_4605.jpg,Infectious Disorders,Keratanisation Disorders,0.8776674866676331,0,FST 5,MST 7
+IMG_4606.jpg,Infectious Disorders,Inflammatory Disorders,0.7764157056808472,0,FST 4,MST 6
+IMG_4640.jpg,Infectious Disorders,Infectious Disorders,0.9216200709342957,1,FST 5,MST 6
+IMG_4672_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8718262314796448,1,FST 5,MST 8
+IMG_4675_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.721717894077301,1,FST 5,MST 8
+IMG_4687_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8703728914260864,1,FST 3,MST 5
+IMG_4689_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9182963967323303,1,FST 3,MST 6
+IMG_4691_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9303140044212341,1,FST 4,MST 7
+IMG_4694_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8920336961746216,1,FST 4,MST 5
+IMG_4733_1.jpg,Infectious Disorders,Infectious Disorders,0.9041103720664978,1,FST 4,MST 5
+IMG_4735.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9267644286155701,1,FST 4,MST 5
+IMG_4783.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8813791275024414,1,FST 5,MST 7
+IMG_4785.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9529418349266052,1,FST 5,MST 7
+IMG_4787.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8563857078552246,1,FST 5,MST 8
+IMG_4796.jpg,Inflammatory Disorders,Infectious Disorders,0.9046669006347656,0,FST 3,MST 5
+IMG_4814.jpg,Infectious Disorders,Infectious Disorders,0.9042255282402039,1,FST 4,MST 6
+IMG_4868.jpg,Infectious Disorders,Infectious Disorders,0.7188481092453003,1,FST 3,MST 5
+IMG_4887.jpg,Infectious Disorders,Infectious Disorders,0.8822941780090332,1,FST 5,MST 6
+IMG_4889.jpg,Infectious Disorders,Inflammatory Disorders,0.4737609326839447,0,FST 4,MST 5
+IMG_4891_1.jpg,Infectious Disorders,Skin Appendages Disorders,0.9203528761863708,0,FST 3,MST 6
+IMG_4891_2.jpg,Infectious Disorders,Skin Appendages Disorders,0.9080368876457214,0,FST 3,MST 6
+IMG_4903.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.890933632850647,1,FST 4,MST 7
+IMG_4905.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8722134828567505,1,FST 4,MST 6
+IMG_4910.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5918398499488831,1,FST 3,MST 5
+IMG_4914.jpg,Infectious Disorders,Infectious Disorders,0.8597625494003296,1,FST 4,MST 5
+IMG_4917.jpg,Infectious Disorders,Infectious Disorders,0.859069287776947,1,FST 3,MST 6
+IMG_4920.jpg,Inflammatory Disorders,Infectious Disorders,0.568681538105011,0,FST 4,MST 5
+IMG_4934.jpg,Infectious Disorders,Infectious Disorders,0.8940532803535461,1,FST 5,MST 6
+IMG_4937.jpg,Skin Appendages Disorders,Inflammatory Disorders,0.48250487446784973,0,FST 5,MST 7
+IMG_4938.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5121526718139648,1,FST 5,MST 6
+IMG_4954_1.jpg,Infectious Disorders,Infectious Disorders,0.9102867245674133,1,FST 5,MST 7
+IMG_4958_1.jpg,Infectious Disorders,Infectious Disorders,0.38642412424087524,1,FST 5,MST 6
+IMG_4959_1.jpg,Infectious Disorders,Infectious Disorders,0.9230021238327026,1,FST 5,MST 6
+IMG_5012.jpg,Infectious Disorders,Infectious Disorders,0.9263232350349426,1,FST 3,MST 5
+IMG_5040.jpg,Infectious Disorders,Infectious Disorders,0.6981519460678101,1,FST 4,MST 6
+IMG_5070.jpg,Infectious Disorders,Infectious Disorders,0.4662860333919525,1,FST 5,MST 8
+IMG_5105.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8622764348983765,1,FST 4,MST 6
+IMG_5112.jpg,Infectious Disorders,Infectious Disorders,0.9185611605644226,1,FST 5,MST 6
+IMG_5114.jpg,Infectious Disorders,Infectious Disorders,0.8608749508857727,1,FST 4,MST 6
+IMG_5117.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9498211741447449,1,FST 5,MST 7
+IMG_5125.jpg,No Definite Diagnosis,Infectious Disorders,0.843222975730896,0,FST 4,MST 5
+IMG_5149.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7956479787826538,1,FST 4,MST 7
+IMG_5150.jpg,Inflammatory Disorders,Infectious Disorders,0.932562530040741,0,FST 4,MST 6
+IMG_5151.jpg,Inflammatory Disorders,Infectious Disorders,0.885222852230072,0,FST 4,MST 6
+IMG_5153.jpg,Infectious Disorders,Infectious Disorders,0.9088213443756104,1,FST 3,MST 5
+IMG_5155.jpg,Infectious Disorders,Infectious Disorders,0.9234523773193359,1,FST 4,MST 5
+IMG_5158.jpg,Infectious Disorders,Inflammatory Disorders,0.49154725670814514,0,FST 4,MST 5
+IMG_5160.jpg,Infectious Disorders,Infectious Disorders,0.7555011510848999,1,FST 3,MST 6
+IMG_5161.jpg,Infectious Disorders,Infectious Disorders,0.5345639586448669,1,FST 5,MST 6
+IMG_5163_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9260849356651306,1,FST 4,MST 6
+IMG_5163_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8936955332756042,1,FST 3,MST 6
+IMG_5165.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9014489650726318,1,FST 3,MST 6
+IMG_5178_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.45408129692077637,1,FST 5,MST 8
+IMG_5178_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.891363799571991,1,FST 5,MST 7
+IMG_5180_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4892250597476959,1,FST 5,MST 8
+IMG_5183.jpg,Inflammatory Disorders,Infectious Disorders,0.9089957475662231,0,FST 4,MST 6
+IMG_5200.jpg,Infectious Disorders,Inflammatory Disorders,0.870211124420166,0,FST 3,MST 5
+IMG_5209.jpg,Inflammatory Disorders,Infectious Disorders,0.9143736958503723,0,FST 4,MST 6
+IMG_5212.jpg,Infectious Disorders,Infectious Disorders,0.8286041617393494,1,FST 4,MST 5
+IMG_5233.jpg,Pigmentary Disorders,Pigmentary Disorders,0.925011157989502,1,FST 5,MST 8
+IMG_5245.jpg,Infectious Disorders,Infectious Disorders,0.8863820433616638,1,FST 3,MST 6
+IMG_5246.jpg,Infectious Disorders,Infectious Disorders,0.890151858329773,1,FST 3,MST 6
+IMG_5269.jpg,Infectious Disorders,Infectious Disorders,0.4609178602695465,1,FST 4,MST 5
+IMG_5272.jpg,Infectious Disorders,Infectious Disorders,0.9178357124328613,1,FST 3,MST 6
+IMG_5273_1.jpg,Infectious Disorders,Infectious Disorders,0.6913267970085144,1,FST 4,MST 5
+IMG_5273_2.jpg,Infectious Disorders,Infectious Disorders,0.8090210556983948,1,FST 4,MST 6
+IMG_5274.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8074089884757996,1,FST 4,MST 7
+IMG_5275.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8524942994117737,1,FST 4,MST 6
+IMG_5277.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7784702181816101,1,FST 5,MST 6
+IMG_5289.jpg,Infectious Disorders,Infectious Disorders,0.7809740900993347,1,FST 5,MST 8
+IMG_5312.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.5789097547531128,1,FST 4,MST 5
+IMG_5340_2.jpg,Inflammatory Disorders,Infectious Disorders,0.9327958822250366,0,FST 3,MST 6
+IMG_5353.jpg,No Definite Diagnosis,Infectious Disorders,0.8942631483078003,0,FST 4,MST 7
+IMG_5368_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8976650238037109,1,FST 5,MST 6
+IMG_5369_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9171184301376343,1,FST 5,MST 6
+IMG_5371_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8709233999252319,1,FST 4,MST 6
+IMG_5371_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7493224143981934,1,FST 4,MST 5
+IMG_5373_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8862893581390381,1,FST 4,MST 6
+IMG_5374_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5633550882339478,1,FST 4,MST 7
+IMG_5426_1.jpg,Infectious Disorders,Infectious Disorders,0.8933998942375183,1,FST 5,MST 6
+IMG_5428_1.jpg,Infectious Disorders,Inflammatory Disorders,0.5304161906242371,0,FST 5,MST 8
+IMG_5449_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8825720548629761,1,FST 4,MST 5
+IMG_5451_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5427683591842651,1,FST 4,MST 7
+IMG_5465_1.jpg,Infectious Disorders,Infectious Disorders,0.511103093624115,1,FST 4,MST 6
+IMG_5467_1.jpg,Infectious Disorders,Infectious Disorders,0.9484357833862305,1,FST 4,MST 7
+IMG_5504.jpg,Pigmentary Disorders,Pigmentary Disorders,0.900209367275238,1,FST 5,MST 8
+IMG_5506.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9186798334121704,1,FST 4,MST 6
+IMG_5510_1.jpg,Infectious Disorders,Infectious Disorders,0.8866188526153564,1,FST 4,MST 7
+IMG_5511_2.jpg,Inflammatory Disorders,Infectious Disorders,0.5672397613525391,0,FST 4,MST 5
+IMG_5521_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7190167307853699,1,FST 5,MST 7
+IMG_5522_1_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8572791814804077,0,FST 5,MST 7
+IMG_5522_1_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6072334051132202,1,FST 4,MST 5
+IMG_5523_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7208383679389954,1,FST 4,MST 5
+IMG_5571_1.jpg,Infectious Disorders,Infectious Disorders,0.8875987529754639,1,FST 5,MST 7
+IMG_5580_1.jpg,Infectious Disorders,Infectious Disorders,0.7388747930526733,1,FST 5,MST 7
+IMG_5582_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5623387694358826,1,FST 3,MST 5
+IMG_5583_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7476458549499512,1,FST 3,MST 6
+IMG_5610_1.jpg,Infectious Disorders,Infectious Disorders,0.501365065574646,1,FST 3,MST 5
+IMG_5613_2.jpg,Infectious Disorders,Infectious Disorders,0.9431577324867249,1,FST 4,MST 6
+IMG_5620_1.jpg,Inflammatory Disorders,Infectious Disorders,0.4924640953540802,0,FST 3,MST 5
+IMG_5621_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9279127717018127,1,FST 3,MST 4
+IMG_5628_1.jpg,Infectious Disorders,Infectious Disorders,0.7615032196044922,1,FST 5,MST 8
+IMG_5630_1.jpg,Infectious Disorders,Infectious Disorders,0.9298197627067566,1,FST 5,MST 8
+IMG_5636_1.jpg,Infectious Disorders,Infectious Disorders,0.9101656079292297,1,FST 4,MST 5
+IMG_5672_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6378754377365112,1,FST 4,MST 7
+IMG_5675_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9165995121002197,1,FST 5,MST 7
+IMG_5686_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.820988118648529,1,FST 4,MST 6
+IMG_5687_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7059585452079773,1,FST 4,MST 6
+IMG_5689_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9314126968383789,1,FST 5,MST 8
+IMG_5691_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.5368152260780334,0,FST 4,MST 5
+IMG_5694_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9180266261100769,1,FST 5,MST 8
+IMG_5707_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7581702470779419,1,FST 3,MST 6
+IMG_5708_1.jpg,Skin Appendages Disorders,Pigmentary Disorders,0.728168249130249,0,FST 3,MST 6
+IMG_5710.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.6676026582717896,1,FST 3,MST 6
+IMG_5717_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9303538203239441,1,FST 4,MST 5
+IMG_5743_1.jpg,Infectious Disorders,Infectious Disorders,0.8634946346282959,1,FST 5,MST 6
+IMG_5782_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8917009234428406,0,FST 5,MST 7
+IMG_5793_1.jpg,Infectious Disorders,Infectious Disorders,0.8330683708190918,1,FST 4,MST 5
+IMG_5816_1.jpg,Infectious Disorders,Infectious Disorders,0.8999240398406982,1,FST 3,MST 6
+IMG_5818_1.jpg,Infectious Disorders,Infectious Disorders,0.9407752752304077,1,FST 4,MST 6
+IMG_5858_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8076984882354736,1,FST 3,MST 5
+IMG_5858_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8108389973640442,1,FST 3,MST 6
+IMG_5867_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7393022775650024,1,FST 4,MST 5
+IMG_5869_1.jpg,Pigmentary Disorders,Infectious Disorders,0.9287261962890625,0,FST 4,MST 6
+IMG_5884_1.jpg,Infectious Disorders,Infectious Disorders,0.894247829914093,1,FST 5,MST 7
+IMG_5893_1.jpg,Inflammatory Disorders,Other skin disorders,0.80116868019104,0,FST 3,MST 5
+IMG_5924_1.jpg,Infectious Disorders,Infectious Disorders,0.32135799527168274,1,FST 3,MST 6
+IMG_5952_1.jpg,Infectious Disorders,Infectious Disorders,0.7999436855316162,1,FST 4,MST 6
+IMG_5953.jpg,Infectious Disorders,Inflammatory Disorders,0.8802284598350525,0,FST 4,MST 6
+IMG_6002_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.915749728679657,1,FST 4,MST 6
+IMG_6004_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9155552983283997,1,FST 4,MST 6
+IMG_6006_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9249235391616821,1,FST 4,MST 5
+IMG_6007_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9232296943664551,1,FST 4,MST 7
+IMG_6009_1.jpg,Infectious Disorders,Infectious Disorders,0.9234040975570679,1,FST 5,MST 7
+IMG_6021_1.jpg,Infectious Disorders,Infectious Disorders,0.9236971139907837,1,FST 4,MST 7
+IMG_6048_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9105362892150879,1,FST 3,MST 6
+IMG_6048_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8708232641220093,1,FST 3,MST 6
+IMG_6051_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8171432018280029,1,FST 3,MST 6
+IMG_6051_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.7664753198623657,1,FST 3,MST 6
+IMG_6062_1.jpg,Infectious Disorders,Infectious Disorders,0.9073416590690613,1,FST 4,MST 6
+IMG_6129_1.jpg,Infectious Disorders,Inflammatory Disorders,0.824679434299469,0,FST 4,MST 5
+IMG_6144.jpg,Inflammatory Disorders,Infectious Disorders,0.7606711387634277,0,FST 5,MST 6
+IMG_6146_2.jpg,Infectious Disorders,Infectious Disorders,0.8793803453445435,1,FST 4,MST 7
+IMG_6155_1.jpg,Infectious Disorders,Infectious Disorders,0.8778025507926941,1,FST 4,MST 6
+IMG_6157_1.jpg,Infectious Disorders,Infectious Disorders,0.8182329535484314,1,FST 4,MST 5
+IMG_6159_1.jpg,Infectious Disorders,Infectious Disorders,0.8915655016899109,1,FST 4,MST 6
+IMG_6167.jpg,Infectious Disorders,Infectious Disorders,0.9103699922561646,1,FST 5,MST 7
+IMG_6185_1.jpg,Infectious Disorders,Infectious Disorders,0.913250744342804,1,FST 4,MST 5
+IMG_6187_1.jpg,Infectious Disorders,Infectious Disorders,0.9306597709655762,1,FST 4,MST 5
+IMG_6188_1.jpg,Infectious Disorders,Infectious Disorders,0.8627312183380127,1,FST 5,MST 7
+IMG_6191_1.jpg,Infectious Disorders,Infectious Disorders,0.818719744682312,1,FST 4,MST 6
+IMG_6202_1.jpg,Infectious Disorders,Infectious Disorders,0.9048076868057251,1,FST 4,MST 7
+IMG_6204_1.jpg,Infectious Disorders,Infectious Disorders,0.8505074977874756,1,FST 4,MST 7
+IMG_6206_1.jpg,Infectious Disorders,Infectious Disorders,0.8831467032432556,1,FST 5,MST 6
+IMG_6219_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9117333889007568,1,FST 3,MST 5
+IMG_6220_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9087314605712891,1,FST 3,MST 5
+IMG_6270_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9236485958099365,1,FST 6,MST 8
+IMG_6271_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9437547922134399,1,FST 5,MST 8
+IMG_6274_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9144718050956726,1,FST 5,MST 6
+IMG_6276_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.788966715335846,1,FST 4,MST 6
+IMG_6290_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9281789064407349,1,FST 4,MST 6
+IMG_6291_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9034063816070557,1,FST 5,MST 8
+IMG_6300_1.jpg,Infectious Disorders,Infectious Disorders,0.8940919041633606,1,FST 5,MST 7
+IMG_6301_1.jpg,Infectious Disorders,Infectious Disorders,0.8564383387565613,1,FST 5,MST 6
+IMG_6304_1.jpg,Infectious Disorders,Infectious Disorders,0.8914823532104492,1,FST 5,MST 7
+IMG_6311_1.jpg,Infectious Disorders,Infectious Disorders,0.9221583604812622,1,FST 4,MST 5
+IMG_6325_1.jpg,Infectious Disorders,Infectious Disorders,0.8622944951057434,1,FST 3,MST 6
+IMG_6328.jpg,Infectious Disorders,Infectious Disorders,0.9031463265419006,1,FST 3,MST 5
+IMG_6341_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8271698355674744,1,FST 5,MST 7
+IMG_6376_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6606078147888184,1,FST 5,MST 8
+IMG_6377_1.jpg,Inflammatory Disorders,Infectious Disorders,0.7775638699531555,0,FST 5,MST 8
+IMG_6378_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9391820430755615,1,FST 5,MST 8
+IMG_6381_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.805258572101593,1,FST 5,MST 8
+IMG_6410_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9303608536720276,1,FST 3,MST 6
+IMG_6411_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7442689538002014,1,FST 3,MST 6
+IMG_6432.jpg,Infectious Disorders,Infectious Disorders,0.9223178625106812,1,FST 3,MST 5
+IMG_6447_1.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.73361736536026,0,FST 4,MST 5
+IMG_6451.jpg,Infectious Disorders,Infectious Disorders,0.8837624788284302,1,FST 3,MST 6
+IMG_6453_1.jpg,Infectious Disorders,Infectious Disorders,0.8124497532844543,1,FST 3,MST 6
+IMG_6454_1.jpg,Infectious Disorders,Infectious Disorders,0.5272560715675354,1,FST 4,MST 6
+IMG_6458.jpg,No Definite Diagnosis,Infectious Disorders,0.8503237366676331,0,FST 5,MST 7
+IMG_6481_2.jpg,Infectious Disorders,Infectious Disorders,0.9139121770858765,1,FST 5,MST 6
+IMG_6483_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9183558821678162,1,FST 5,MST 8
+IMG_6494_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7752105593681335,1,FST 4,MST 6
+IMG_6495.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9303808808326721,1,FST 4,MST 6
+IMG_6497_1.jpg,Infectious Disorders,Infectious Disorders,0.9471942186355591,1,FST 5,MST 7
+IMG_6499_1.jpg,Infectious Disorders,Infectious Disorders,0.9113390445709229,1,FST 4,MST 6
+IMG_6530_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8741005063056946,0,FST 3,MST 6
+IMG_6532_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8888080716133118,0,FST 4,MST 6
+IMG_6533_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9190090298652649,1,FST 3,MST 6
+IMG_6537_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8340480327606201,1,FST 3,MST 5
+IMG_6537_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9103087782859802,1,FST 3,MST 6
+IMG_6538_1_1.jpg,Pigmentary Disorders,Infectious Disorders,0.9307633638381958,0,FST 4,MST 5
+IMG_6546_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.7634806036949158,0,FST 4,MST 7
+IMG_6548_1.jpg,Pigmentary Disorders,Infectious Disorders,0.5328047275543213,0,FST 4,MST 6
+IMG_6550_1.jpg,Pigmentary Disorders,Infectious Disorders,0.8317896723747253,0,FST 4,MST 6
+IMG_6735_2.jpg,Infectious Disorders,Infectious Disorders,0.9105619192123413,1,FST 4,MST 7
+IMG_6737_1.jpg,Infectious Disorders,Other skin disorders,0.5625451803207397,0,FST 3,MST 4
+IMG_6750_1.jpg,Infectious Disorders,Infectious Disorders,0.6776328086853027,1,FST 5,MST 6
+IMG_6805.jpg,Infectious Disorders,Inflammatory Disorders,0.435744047164917,0,FST 5,MST 8
+IMG_6810_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.48687466979026794,1,FST 4,MST 5
+IMG_6879_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4727616012096405,1,FST 4,MST 5
+IMG_6880_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9186966419219971,1,FST 4,MST 6
+IMG_6915_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5289537906646729,1,FST 4,MST 5
+IMG_6933_1.jpg,Infectious Disorders,Infectious Disorders,0.9494326710700989,1,FST 4,MST 6
+IMG_6966_1.jpg,Infectious Disorders,Infectious Disorders,0.7637679576873779,1,FST 4,MST 7
+IMG_6973_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9207376837730408,1,FST 3,MST 5
+IMG_6976_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8965893387794495,1,FST 3,MST 6
+IMG_6998_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7229622006416321,1,FST 4,MST 5
+IMG_7027_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7995383143424988,1,FST 3,MST 6
+IMG_7030_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9425086379051208,1,FST 3,MST 6
+IMG_7032.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9351946115493774,1,FST 3,MST 6
+IMG_7071_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9224085807800293,1,FST 4,MST 7
+IMG_7073_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6878578066825867,1,FST 3,MST 6
+IMG_7073_2.jpg,Inflammatory Disorders,Infectious Disorders,0.8624587655067444,0,FST 3,MST 6
+IMG_7075_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4297170042991638,1,FST 3,MST 5
+IMG_7078_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8542994260787964,1,FST 3,MST 5
+IMG_7078_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4483441114425659,1,FST 3,MST 6
+IMG_7096_1.jpg,Infectious Disorders,Infectious Disorders,0.9276284575462341,1,FST 4,MST 6
+IMG_7097_1.jpg,Infectious Disorders,Inflammatory Disorders,0.4957970380783081,0,FST 4,MST 6
+IMG_7099_1.jpg,Infectious Disorders,Keratanisation Disorders,0.6175544261932373,0,FST 4,MST 5
+IMG_7116_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9000445604324341,1,FST 4,MST 5
+IMG_7117_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9135854244232178,1,FST 3,MST 6
+IMG_7139_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9196352362632751,1,FST 3,MST 5
+IMG_7175_1.jpg,Infectious Disorders,Inflammatory Disorders,0.7776296734809875,0,FST 3,MST 6
+IMG_7177_1.jpg,Infectious Disorders,Infectious Disorders,0.8742996454238892,1,FST 4,MST 6
+IMG_7180_1.jpg,Infectious Disorders,Infectious Disorders,0.7488438487052917,1,FST 5,MST 7
+IMG_7187.jpg,Infectious Disorders,Inflammatory Disorders,0.8398789167404175,0,FST 5,MST 8
+IMG_7198_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9004141688346863,1,FST 4,MST 7
+IMG_7237_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.44334515929222107,1,FST 3,MST 5
+IMG_7258_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6769047975540161,1,FST 4,MST 6
+IMG_7276_1.jpg,Infectious Disorders,Inflammatory Disorders,0.848034143447876,0,FST 4,MST 5
+IMG_7278_1.jpg,Infectious Disorders,Infectious Disorders,0.6789785027503967,1,FST 3,MST 6
+IMG_7288_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.36819323897361755,1,FST 3,MST 4
+IMG_7305.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9041922092437744,1,FST 3,MST 5
+IMG_7308_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9286227822303772,1,FST 3,MST 5
+IMG_7309_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9076119661331177,1,FST 3,MST 4
+IMG_7321.jpg,Pigmentary Disorders,Infectious Disorders,0.5896735787391663,0,FST 4,MST 5
+IMG_7324_1.jpg,Infectious Disorders,Infectious Disorders,0.9213470816612244,1,FST 5,MST 7
+IMG_7325_1.jpg,Infectious Disorders,Infectious Disorders,0.6722137928009033,1,FST 5,MST 7
+IMG_7326_1.jpg,Infectious Disorders,Infectious Disorders,0.7473363876342773,1,FST 4,MST 7
+IMG_7341_1.jpg,Infectious Disorders,Infectious Disorders,0.6041770577430725,1,FST 3,MST 5
+IMG_7342_1.jpg,Infectious Disorders,Inflammatory Disorders,0.596229612827301,0,FST 3,MST 5
+IMG_7388_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.3517797887325287,1,FST 3,MST 5
+IMG_7396.jpg,Infectious Disorders,Infectious Disorders,0.713227391242981,1,FST 6,MST 8
+IMG_7397_1.jpg,Infectious Disorders,Infectious Disorders,0.7838837504386902,1,FST 4,MST 7
+IMG_7418_2.jpg,Infectious Disorders,Infectious Disorders,0.9436778426170349,1,FST 4,MST 6
+IMG_7418_3.jpg,Infectious Disorders,Infectious Disorders,0.956838071346283,1,FST 4,MST 6
+IMG_7479_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9301148056983948,1,FST 5,MST 7
+IMG_7486_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.39298170804977417,1,FST 3,MST 5
+IMG_7526_1.jpg,Infectious Disorders,Inflammatory Disorders,0.8622249364852905,0,FST 3,MST 6
+IMG_7527_1.jpg,Infectious Disorders,Inflammatory Disorders,0.91823810338974,0,FST 3,MST 5
+IMG_7535_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9039239883422852,1,FST 3,MST 6
+IMG_7537.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9207667708396912,1,FST 4,MST 6
+IMG_7538.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8549271821975708,1,FST 3,MST 5
+IMG_7541_1.jpg,Infectious Disorders,Inflammatory Disorders,0.8508901596069336,0,FST 5,MST 8
+IMG_7550_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9122122526168823,1,FST 4,MST 7
+IMG_7556_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9018136262893677,1,FST 5,MST 7
+IMG_7557_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.904114842414856,1,FST 5,MST 7
+IMG_7559_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9007203578948975,1,FST 3,MST 4
+IMG_7560_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.895879328250885,1,FST 3,MST 4
+IMG_7562_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8988034129142761,1,FST 3,MST 4
+IMG_7569_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.7182995676994324,1,FST 4,MST 5
+IMG_7572_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8745560646057129,1,FST 3,MST 5
+IMG_7572_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.5805559158325195,1,FST 3,MST 6
+IMG_7574_1.jpg,Infectious Disorders,Infectious Disorders,0.7737309336662292,1,FST 3,MST 5
+IMG_7577.jpg,Pigmentary Disorders,Inflammatory Disorders,0.9023159146308899,0,FST 3,MST 5
+IMG_7578_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.7012795209884644,0,FST 3,MST 5
+IMG_7581_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.5113282203674316,0,FST 3,MST 4
+IMG_7595.jpg,Infectious Disorders,Infectious Disorders,0.5560805201530457,1,FST 4,MST 7
+IMG_7602_1.jpg,Infectious Disorders,Infectious Disorders,0.9208062887191772,1,FST 4,MST 7
+IMG_7611_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8305636644363403,1,FST 4,MST 5
+IMG_7619_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.5520708560943604,1,FST 4,MST 6
+IMG_7620_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9331654906272888,1,FST 3,MST 5
+IMG_7624_1.jpg,Infectious Disorders,Infectious Disorders,0.6522612571716309,1,FST 3,MST 5
+IMG_7633_1.jpg,Infectious Disorders,Infectious Disorders,0.8771758675575256,1,FST 5,MST 7
+IMG_7644_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5920525193214417,1,FST 4,MST 6
+IMG_7645_1.jpg,Inflammatory Disorders,Infectious Disorders,0.553472638130188,0,FST 5,MST 7
+IMG_7655_1.jpg,Infectious Disorders,Infectious Disorders,0.8197444677352905,1,FST 4,MST 6
+IMG_7696_1.jpg,Infectious Disorders,Infectious Disorders,0.9099989533424377,1,FST 5,MST 7
+IMG_7740_1.jpg,Inflammatory Disorders,Infectious Disorders,0.49626991152763367,0,FST 3,MST 6
+IMG_7743_1.jpg,Keratanisation Disorders,Inflammatory Disorders,0.311273455619812,0,FST 6,MST 8
+IMG_7744_1.jpg,Keratanisation Disorders,Inflammatory Disorders,0.6014009714126587,0,FST 5,MST 7
+IMG_7746_1.jpg,Keratanisation Disorders,Infectious Disorders,0.4337127208709717,0,FST 4,MST 7
+IMG_7746_2.jpg,Keratanisation Disorders,Inflammatory Disorders,0.8744608163833618,0,FST 5,MST 7
+IMG_7752.jpg,Infectious Disorders,Infectious Disorders,0.7932935357093811,1,FST 3,MST 5
+IMG_7777_1.jpg,Skin Appendages Disorders,Other skin disorders,0.8562806248664856,0,FST 3,MST 5
+IMG_7825_1.jpg,Infectious Disorders,Infectious Disorders,0.9453354477882385,1,FST 5,MST 7
+IMG_7875_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.898557722568512,1,FST 3,MST 6
+IMG_7876_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8849818110466003,1,FST 3,MST 7
+IMG_7886_1.jpg,Infectious Disorders,Infectious Disorders,0.9347836375236511,1,FST 5,MST 8
+IMG_7887.jpg,Infectious Disorders,Infectious Disorders,0.927741289138794,1,FST 5,MST 8
+IMG_7888_1.jpg,Infectious Disorders,Infectious Disorders,0.8905040621757507,1,FST 5,MST 8
+IMG_7892_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7031212449073792,1,FST 3,MST 5
+IMG_7909_1.jpg,Infectious Disorders,Infectious Disorders,0.8780885338783264,1,FST 5,MST 7
+IMG_7966_1.jpg,Keratanisation Disorders,Inflammatory Disorders,0.3829895555973053,0,FST 5,MST 7
+IMG_7970_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9044636487960815,1,FST 5,MST 7
+IMG_7972_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9052380919456482,1,FST 5,MST 7
+IMG_7996_1.jpg,Keratanisation Disorders,Infectious Disorders,0.5068165063858032,0,FST 4,MST 7
+IMG_7998.jpg,Keratanisation Disorders,Inflammatory Disorders,0.6052344441413879,0,FST 4,MST 7
+IMG_8031_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9259418249130249,1,FST 4,MST 6
+IMG_8032_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8532266020774841,1,FST 5,MST 7
+IMG_8044_1.jpg,Infectious Disorders,Inflammatory Disorders,0.7812216281890869,0,FST 4,MST 6
+IMG_8046_1.jpg,Infectious Disorders,Inflammatory Disorders,0.8937472701072693,0,FST 3,MST 5
+IMG_8061_1.jpg,Infectious Disorders,Infectious Disorders,0.9129649996757507,1,FST 4,MST 6
+IMG_8065_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8760359287261963,0,FST 5,MST 7
+IMG_8106.jpg,Infectious Disorders,Infectious Disorders,0.9296374917030334,1,FST 4,MST 7
+IMG_8131_1.jpg,Infectious Disorders,Infectious Disorders,0.8963601589202881,1,FST 5,MST 7
+IMG_8138_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9223261475563049,1,FST 4,MST 7
+IMG_8142_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4614948630332947,1,FST 4,MST 7
+IMG_8162_1.jpg,Inflammatory Disorders,Infectious Disorders,0.6275781393051147,0,FST 3,MST 5
+IMG_8163_1.jpg,Inflammatory Disorders,Infectious Disorders,0.7224113941192627,0,FST 5,MST 7
+IMG_8165.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9127282500267029,1,FST 4,MST 6
+IMG_8205_1_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.6124985814094543,0,FST 3,MST 5
+IMG_8205_1.jpg,Pigmentary Disorders,Inflammatory Disorders,0.788374125957489,0,FST 3,MST 5
+IMG_8220.jpg,Infectious Disorders,Infectious Disorders,0.931729257106781,1,FST 5,MST 7
+IMG_8222_1.jpg,Infectious Disorders,Infectious Disorders,0.8946030735969543,1,FST 6,MST 8
+IMG_8275_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6451422572135925,1,FST 4,MST 6
+IMG_8280_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.786474347114563,1,FST 4,MST 6
+IMG_8288_1.jpg,Infectious Disorders,Infectious Disorders,0.7192310094833374,1,FST 4,MST 6
+IMG_8297_1.jpg,Infectious Disorders,Infectious Disorders,0.8405272364616394,1,FST 4,MST 6
+IMG_8307.jpg,Infectious Disorders,Infectious Disorders,0.8233969807624817,1,FST 4,MST 6
+IMG_8309_1.jpg,Infectious Disorders,Inflammatory Disorders,0.8447338342666626,0,FST 5,MST 7
+IMG_8319.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5520970821380615,1,FST 3,MST 4
+IMG_8356_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9303018450737,1,FST 5,MST 7
+IMG_8364_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5681751370429993,0,FST 5,MST 8
+IMG_8365_1.jpg,Infectious Disorders,Infectious Disorders,0.5173349976539612,1,FST 6,MST 8
+IMG_8366_1.jpg,Infectious Disorders,Inflammatory Disorders,0.42037826776504517,0,FST 5,MST 8
+IMG_8415_1.jpg,Infectious Disorders,Infectious Disorders,0.8735921382904053,1,FST 5,MST 7
+IMG_8418_1.jpg,Infectious Disorders,Infectious Disorders,0.8861798048019409,1,FST 5,MST 7
+IMG_8478_1.jpg,Skin Appendages Disorders,Infectious Disorders,0.7534517645835876,0,FST 6,MST 8
+IMG_8545_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8620331883430481,1,FST 5,MST 7
+IMG_8545_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.816846489906311,1,FST 5,MST 7
+IMG_8556_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.798957347869873,1,FST 5,MST 8
+IMG_8558_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9196323156356812,1,FST 5,MST 8
+IMG_8572_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9071592688560486,1,FST 4,MST 6
+IMG_8584_1.jpg,Infectious Disorders,Pigmentary Disorders,0.7320960164070129,0,FST 5,MST 7
+IMG_8641_1.jpg,Infectious Disorders,Infectious Disorders,0.723063588142395,1,FST 5,MST 7
+IMG_8758_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.48654472827911377,1,FST 4,MST 7
+IMG_8764_1.jpg,Infectious Disorders,Infectious Disorders,0.9123978614807129,1,FST 6,MST 8
+IMG_8765_1.jpg,Infectious Disorders,Infectious Disorders,0.9106788635253906,1,FST 4,MST 6
+IMG_8766_1.jpg,Infectious Disorders,Infectious Disorders,0.714461088180542,1,FST 4,MST 6
+IMG_8813_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.6872612833976746,1,FST 3,MST 6
+IMG_8816_1.jpg,Pigmentary Disorders,Other skin disorders,0.2914946973323822,0,FST 3,MST 6
+IMG_8821.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8736796379089355,1,FST 4,MST 7
+IMG_8853_1.jpg,Other skin disorders,Keratanisation Disorders,0.7905164361000061,0,FST 5,MST 7
+IMG_8874_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6797229647636414,1,FST 5,MST 7
+IMG_8876_1.jpg,Inflammatory Disorders,Infectious Disorders,0.8157821297645569,0,FST 4,MST 7
+IMG_8877_1.jpg,Inflammatory Disorders,Infectious Disorders,0.7392606735229492,0,FST 4,MST 7
+IMG_8903_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8742114901542664,1,FST 4,MST 6
+IMG_8937_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7941796779632568,1,FST 4,MST 6
+IMG_8942_1.jpg,Infectious Disorders,Infectious Disorders,0.8498393893241882,1,FST 3,MST 6
+IMG_8948_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7874953150749207,1,FST 3,MST 6
+IMG_8949_1.jpg,Inflammatory Disorders,Infectious Disorders,0.5131999850273132,0,FST 5,MST 7
+IMG_8958_1.jpg,Other skin disorders,Infectious Disorders,0.9194745421409607,0,FST 5,MST 7
+IMG_8959_1.jpg,Other skin disorders,Infectious Disorders,0.6357166767120361,0,FST 5,MST 7
+IMG_8960_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7629457116127014,1,FST 5,MST 7
+IMG_8962_1.jpg,Infectious Disorders,Infectious Disorders,0.9445034265518188,1,FST 4,MST 6
+IMG_8963_1.jpg,Infectious Disorders,Infectious Disorders,0.9186269044876099,1,FST 4,MST 6
+IMG_8975_1.jpg,Infectious Disorders,Infectious Disorders,0.8188595771789551,1,FST 3,MST 5
+IMG_8976_1.jpg,Infectious Disorders,Infectious Disorders,0.9348105192184448,1,FST 5,MST 7
+IMG_8979_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4282834827899933,1,FST 4,MST 6
+IMG_8980_1.jpg,Infectious Disorders,Infectious Disorders,0.6967877745628357,1,FST 4,MST 7
+IMG_8984_1.jpg,Infectious Disorders,Infectious Disorders,0.8374431133270264,1,FST 4,MST 7
+IMG_8996_1.jpg,Infectious Disorders,Infectious Disorders,0.9094107747077942,1,FST 4,MST 6
+IMG_9005_2.jpg,Infectious Disorders,Infectious Disorders,0.8984405994415283,1,FST 5,MST 7
+IMG_9016_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8355308175086975,1,FST 4,MST 7
+IMG_9025_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.850941002368927,1,FST 4,MST 7
+IMG_9051_1.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.922435462474823,1,FST 4,MST 7
+IMG_9083.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8999507427215576,1,FST 4,MST 7
+IMG_9084_2.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8148042559623718,1,FST 4,MST 7
+IMG_9084_3.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9210753440856934,1,FST 5,MST 7
+IMG_9152_1.jpg,Infectious Disorders,Infectious Disorders,0.7938708662986755,1,FST 4,MST 7
+IMG_9154_1.jpg,Infectious Disorders,Infectious Disorders,0.9181956648826599,1,FST 5,MST 7
+IMG_9305_1.jpg,Pigmentary Disorders,Neoplasms and tumors,0.6974652409553528,0,FST 4,MST 7
+IMG_9308.jpg,Skin Appendages Disorders,Infectious Disorders,0.40823549032211304,0,FST 4,MST 7
+IMG_9316.jpg,Infectious Disorders,Infectious Disorders,0.8152500987052917,1,FST 4,MST 6
+IMG_9317.jpg,Infectious Disorders,Infectious Disorders,0.38462328910827637,1,FST 4,MST 6
+IMG_9333_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.623681902885437,1,FST 6,MST 8
+IMG_9335_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.5938399434089661,1,FST 6,MST 8
+IMG_9339_1.jpg,Inflammatory Disorders,Infectious Disorders,0.493595153093338,0,FST 6,MST 8
+IMG_9340.jpg,Inflammatory Disorders,Inflammatory Disorders,0.44991472363471985,1,FST 6,MST 8
+IMG_9383_1.jpg,Infectious Disorders,Inflammatory Disorders,0.6855083107948303,0,FST 3,MST 5
+IMG_9425_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7728047966957092,1,FST 5,MST 7
+IMG_9428_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8900445699691772,1,FST 5,MST 7
+IMG_9462_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9408714175224304,1,FST 6,MST 8
+IMG_9472_1.jpg,Other skin disorders,Infectious Disorders,0.8664909601211548,0,FST 6,MST 8
+IMG_9526_1.jpg,Infectious Disorders,Inflammatory Disorders,0.5754405856132507,0,FST 4,MST 6
+IMG_9544_2.jpg,Neoplasms and tumors,Inflammatory Disorders,0.7024100422859192,0,FST 4,MST 6
+IMG_9657_1.jpg,Other skin disorders,Inflammatory Disorders,0.3943162262439728,0,FST 4,MST 6
+IMG_9666_2.jpg,Infectious Disorders,Skin Appendages Disorders,0.3804972469806671,0,FST 5,MST 7
+IMG_9669_1.jpg,Other skin disorders,Infectious Disorders,0.8656291961669922,0,FST 4,MST 7
+IMG_9671_1.jpg,Other skin disorders,Infectious Disorders,0.8023792505264282,0,FST 4,MST 7
+IMG_9826_2.jpg,Infectious Disorders,Infectious Disorders,0.9108673334121704,1,FST 4,MST 7
+IMG_9827_1.jpg,Infectious Disorders,Infectious Disorders,0.9201279878616333,1,FST 4,MST 7
+IMG_9831_1.jpg,Infectious Disorders,Infectious Disorders,0.9224442839622498,1,FST 5,MST 7
+IMG_9832_1.jpg,Infectious Disorders,Infectious Disorders,0.9072599411010742,1,FST 5,MST 7
+IMG_9833_1.jpg,Infectious Disorders,Infectious Disorders,0.9014086723327637,1,FST 5,MST 7
+IMG_9853_1.jpg,Infectious Disorders,Infectious Disorders,0.6764259934425354,1,FST 3,MST 5
+IMG_9854_1.jpg,Infectious Disorders,Skin Appendages Disorders,0.8913230299949646,0,FST 4,MST 7
+IMG_9869_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8432278037071228,1,FST 4,MST 6
+IMG_9869_3.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9033342003822327,1,FST 4,MST 6
+IMG_9871_2.jpg,Pigmentary Disorders,Inflammatory Disorders,0.8300825953483582,0,FST 4,MST 6
+IMG_9871_3.jpg,Pigmentary Disorders,Pigmentary Disorders,0.7920834422111511,1,FST 3,MST 5
+IMG_9874_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7774590253829956,1,FST 4,MST 6
+IMG_9876_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4167439043521881,1,FST 4,MST 6
+IMG_9890.jpg,Infectious Disorders,Infectious Disorders,0.41089102625846863,1,FST 4,MST 6
+IMG_9895_1.jpg,Infectious Disorders,Keratanisation Disorders,0.4750339686870575,0,FST 4,MST 6
+IMG_9898_1.jpg,Keratanisation Disorders,Keratanisation Disorders,0.3813861310482025,1,FST 3,MST 5
+IMG_9904_1.jpg,Infectious Disorders,Infectious Disorders,0.9462879300117493,1,FST 4,MST 7
+IMG_9920_1.jpg,Neoplasms and tumors,Inflammatory Disorders,0.5168586373329163,0,FST 3,MST 6
+IMG_9922.jpg,Neoplasms and tumors,Inflammatory Disorders,0.3200000524520874,0,FST 3,MST 6
+IMG_9941_3.jpg,Inflammatory Disorders,Inflammatory Disorders,0.31754249334335327,1,FST 4,MST 6
+IMG_9965.jpg,Infectious Disorders,Infectious Disorders,0.848885715007782,1,FST 6,MST 8
+IMG_9968_1.jpg,Other skin disorders,Inflammatory Disorders,0.48730677366256714,0,FST 3,MST 5
+IMG_9970_1.jpg,Inflammatory Disorders,Pigmentary Disorders,0.6928908824920654,0,FST 4,MST 6
+IMG_9974_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.6303126215934753,1,FST 4,MST 6
+IMG_E0094_1.jpg,Infectious Disorders,Infectious Disorders,0.8154380917549133,1,FST 5,MST 7
+IMG_E1753_1.jpg,Inflammatory Disorders,Pigmentary Disorders,0.8933093547821045,0,FST 4,MST 6
+IMG_E2347_1.jpg,Inflammatory Disorders,Pigmentary Disorders,0.9122943878173828,0,FST 5,MST 7
+IMG_E2347_2.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8718586564064026,1,FST 5,MST 7
+IMG_E2348.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8999801874160767,1,FST 5,MST 7
+IMG_E2350_1.jpg,Pigmentary Disorders,Pigmentary Disorders,0.8884242177009583,1,FST 5,MST 7
+IMG_E3471_1.jpg,Other skin disorders,Neoplasms and tumors,0.44757479429244995,0,FST 4,MST 6
+IMG_E3472_2.jpg,Other skin disorders,Inflammatory Disorders,0.8899807333946228,0,FST 4,MST 6
+IMG_E4530_1.jpg,Inflammatory Disorders,Infectious Disorders,0.4478643536567688,0,FST 4,MST 7
+IMG_E4573_1.jpg,Other skin disorders,Other skin disorders,0.9183102250099182,1,FST 5,MST 7
+IMG-20200916-WA0001.jpg,Infectious Disorders,Infectious Disorders,0.9246668219566345,1,FST 5,MST 7
+IMG-20230422-WA0003_1.jpg,Inflammatory Disorders,Infectious Disorders,0.6591213345527649,0,FST 5,MST 7
+IMG20240410101146.jpg,Infectious Disorders,Inflammatory Disorders,0.6044254302978516,0,FST 4,MST 6
+IMG20240417121925.jpg,Inflammatory Disorders,Infectious Disorders,0.8991532325744629,0,FST 4,MST 6
+IMG20240417121939.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7466117739677429,1,FST 4,MST 7
+IMG20240506205750.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.8176018595695496,1,FST 4,MST 7
+IMG20240506205755.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9061009287834167,1,FST 4,MST 7
+IMG20240506205759.jpg,Skin Appendages Disorders,Skin Appendages Disorders,0.9054591059684753,1,FST 4,MST 7
+IMG20240514104933.jpg,Infectious Disorders,Inflammatory Disorders,0.8655679225921631,0,FST 5,MST 8
+IMG20240514104952.jpg,Inflammatory Disorders,Inflammatory Disorders,0.791742742061615,1,FST 5,MST 8
+IMG20240516163017.jpg,Inflammatory Disorders,Inflammatory Disorders,0.747467041015625,1,FST 4,MST 6
+IMG20240527112328.jpg,Infectious Disorders,Inflammatory Disorders,0.9346476197242737,0,FST 5,MST 7
+IMG20240703172849.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8989565968513489,1,FST 5,MST 7
+IMG20240706222504.jpg,Infectious Disorders,Infectious Disorders,0.6480505466461182,1,FST 5,MST 7
+IMG20240706222538.jpg,Inflammatory Disorders,Inflammatory Disorders,0.46048280596733093,1,FST 5,MST 8
+IMG20240717104839.jpg,Other skin disorders,Other skin disorders,0.788538932800293,1,FST 4,MST 7
+IMG20240824101146.jpg,Infectious Disorders,Infectious Disorders,0.9252296090126038,1,FST 4,MST 7
+IMG20240905114357.jpg,Infectious Disorders,Infectious Disorders,0.9235692024230957,1,FST 5,MST 7
+IMG20240911101440.jpg,Infectious Disorders,Inflammatory Disorders,0.5732591152191162,0,FST 5,MST 7
+IMG20240911101444.jpg,Infectious Disorders,Inflammatory Disorders,0.524983286857605,0,FST 5,MST 7
+IMG20240911160038_1.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9607143402099609,1,FST 5,MST 7
+IMG20240911160038_2.jpg,Inflammatory Disorders,Inflammatory Disorders,0.4970370829105377,1,FST 5,MST 7
+IMG20240911160043.jpg,Inflammatory Disorders,Inflammatory Disorders,0.84149169921875,1,FST 5,MST 7
+IMG20240921154449.jpg,Infectious Disorders,Inflammatory Disorders,0.8189958333969116,0,FST 3,MST 5
+IMG20240923105125.jpg,Infectious Disorders,Infectious Disorders,0.699851393699646,1,FST 4,MST 6
+IMG20240923105139.jpg,Infectious Disorders,Infectious Disorders,0.7986493110656738,1,FST 4,MST 6
+IMG20241018122254.jpg,Inflammatory Disorders,Infectious Disorders,0.8951074481010437,0,FST 5,MST 7
+IMG20241018123240.jpg,Infectious Disorders,Inflammatory Disorders,0.8741846084594727,0,FST 3,MST 5
+IMG20241018123258.jpg,Infectious Disorders,Inflammatory Disorders,0.9156507253646851,0,FST 4,MST 6
+IMG20241127110017.jpg,Infectious Disorders,Infectious Disorders,0.5092922449111938,1,FST 4,MST 6
+IMG20241127110129.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8252215385437012,1,FST 3,MST 5
+IMG20241127153325.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9388278722763062,1,FST 5,MST 7
+IMG20241127153425.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9124596118927002,1,FST 5,MST 7
+IMG20241128164533.jpg,Inflammatory Disorders,Inflammatory Disorders,0.886918306350708,1,FST 5,MST 7
+IMG20241128164555.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8874137997627258,1,FST 5,MST 7
+IMG20241210123456.jpg,Infectious Disorders,Infectious Disorders,0.8821613192558289,1,FST 3,MST 6
+IMG20241211104440.jpg,Infectious Disorders,Pigmentary Disorders,0.5091690421104431,0,FST 3,MST 5
+IMG20241211120344.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.9011368155479431,0,FST 4,MST 6
+IMG20241211120453.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9019888043403625,1,FST 4,MST 6
+IMG20241212151722.jpg,Infectious Disorders,Inflammatory Disorders,0.9367479681968689,0,FST 4,MST 6
+IMG20241213115953.jpg,Pigmentary Disorders,Inflammatory Disorders,0.5762614607810974,0,FST 3,MST 5
+IMG20241213160108.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9164136052131653,1,FST 4,MST 7
+IMG20241213160131.jpg,Inflammatory Disorders,Inflammatory Disorders,0.9156620502471924,1,FST 4,MST 7
+IMG20241213160142.jpg,Inflammatory Disorders,Inflammatory Disorders,0.8716117739677429,1,FST 4,MST 7
+IMG20241216091408.jpg,Inflammatory Disorders,Skin Appendages Disorders,0.7004446387290955,0,FST 4,MST 6
+IMG20241218154910.jpg,Infectious Disorders,Infectious Disorders,0.9211853742599487,1,FST 4,MST 5
+IMG20241220154239.jpg,Inflammatory Disorders,Inflammatory Disorders,0.7087181806564331,1,FST 3,MST 5
+IMG_20190709_104403.jpg,Pigmentary Disorders,Pigmentary Disorders,0.2997455596923828,1,FST 3,MST 5
+IMG_20190722_184924.jpg,Pigmentary Disorders,Pigmentary Disorders,0.9404891133308411,1,FST 4,MST 6
+IMG_20221226_200112_1.jpg,Infectious Disorders,Inflammatory Disorders,0.854182779788971,0,FST 4,MST 7
+IMG_20221226_200123_1.jpg,Infectious Disorders,Inflammatory Disorders,0.8049668669700623,0,FST 4,MST 7
+IMG_20230620_192134_1.jpg,Infectious Disorders,Infectious Disorders,0.8788713216781616,1,FST 4,MST 6
+IMG_2656.jpg,Infectious Disorders,Infectious Disorders,0.8808143138885498,1,FST 4,MST 6
+IMG_2659.jpg,Infectious Disorders,Infectious Disorders,0.4994767904281616,1,FST 4,MST 6

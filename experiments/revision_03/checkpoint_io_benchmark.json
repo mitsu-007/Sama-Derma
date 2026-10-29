@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "model": "swin_base_patch4_window12_384",
+  "num_classes": 8,
+  "checkpoint_path": "experiments\\revision_03\\checkpoint_io_smoke.pth",
+  "checkpoint_size_bytes": 347671405,
+  "checkpoint_size_mib": 331.5652894973755,
+  "save_seconds": 0.40044940006919205,
+  "sha256": "fb687fd38905a630a27ec2f21c68f3040b81a18415f7112897c52722b41598eb",
+  "weights_are_disposable_random_initialization": true,
+  "source_data_read": false,
+  "test_metadata_read": false
+}

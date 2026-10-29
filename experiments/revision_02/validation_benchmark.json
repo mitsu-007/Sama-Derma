@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "validation_split_only": true,
+  "test_metadata_read": false,
+  "weights_saved": false,
+  "initial_total_gpu_memory_mib": [
+    1366,
+    6144
+  ],
+  "pretrained_sha256": "0f6f7d28cb1ddf43af5583163310b29cb3805a32044f226025352494702c606e",
+  "device": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "validation_microbatch": 1,
+  "warmup_images": 8,
+  "measured_images": 24,
+  "mean_seconds_per_validation_image_model_only": 0.12765870000293944,
+  "std_seconds_per_validation_image_model_only": 0.028081945346103705,
+  "images_per_second_model_only": 7.833386991853859,
+  "peak_allocated_gib": 0.4952373504638672,
+  "peak_reserved_gib": 0.5625,
+  "peak_total_gpu_used_mib_nvidia_smi": 2051,
+  "minimum_total_gpu_free_mib_nvidia_smi": 4093,
+  "gpu_total_memory_mib_nvidia_smi": 6144,
+  "gpu_memory_samples": 17,
+  "startup_free_bytes": 5403312128,
+  "cuda_total_bytes": 6441926656,
+  "benchmark_elapsed_seconds": 4.614432999980636,
+  "notes": "Validation transform, batch 1, inference_mode, fp16 autocast. Timed interval covers model forward only; full validation estimate adds data decode and metric handling overhead."
+}
