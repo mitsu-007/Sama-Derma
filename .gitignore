@@ -18,7 +18,8 @@ env/
 # Model checkpoints and large datasets
 
 checkpoints/
-data/
+/data/
+!frontend/src/data/
 dataset/
 *.pth
 *.pt
@@ -42,3 +43,9 @@ frontend/dist/
 *.log
 .DS_Store
 Thumbs.db
+
+# Windows / PowerShell cache
+Microsoft/
+ 
+# Generated experiment runs
+experiments/runs/
